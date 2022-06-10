@@ -46,7 +46,7 @@ page_sections:
     headline: Web3 Environment
     slug: ''
     content: True decentralization is at the core of The Fair Data Protocol Economy
-      Toolset.
+      toolset.
   col_3:
     headline: Web3 Framework
     slug: ''
