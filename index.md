@@ -47,7 +47,8 @@ page_sections:
   col_3:
     headline: Self Sovereignty
     slug: ''
-    content: ''
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
 - template: content-feature
   block: feature-1
   media_alignment: Left
