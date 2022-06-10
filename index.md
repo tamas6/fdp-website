@@ -50,8 +50,7 @@ page_sections:
   col_3:
     headline: Web3 Framework
     slug: ''
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'The Fair Data Protocol toolset '
 - template: content-feature
   block: feature-1
   media_alignment: Left
