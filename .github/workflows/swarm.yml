@@ -17,6 +17,7 @@ jobs:
 
       - uses: helaili/jekyll-action@v2
         with:
+          target_branch: "master"
           build_only: true
           
 
