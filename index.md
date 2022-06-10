@@ -12,7 +12,7 @@ page_sections:
   - link: "#swap"
     link_text: DAO
   - link: "#customize"
-    link_text: Customize
+    link_text: Bounties
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
