@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/06/10/fdp-logo-w-text.svg"
+  logo: "/uploads/2022/06/10/fdp-temp-logow-text.svg"
   navigation:
   - link: https://app.daohaus.club/dao/0x89/0x12d913c76deaa584329b20bf10100a9736aa2ccc/proposals
     link_text: DAO
