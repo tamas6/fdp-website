@@ -17,7 +17,7 @@ jobs:
 
       - uses: helaili/jekyll-action@v2
         with:
-          jekyll_build_options: "--config ../_config.yml"
+          jekyll_build_options: "--config _config.yml"
           build_only: true
           
 
