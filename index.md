@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/"
+  - link: https://github.com/fairDataSociety
     link_text: Get Started
   - link: "#swap"
     link_text: DAO
@@ -15,8 +15,6 @@ page_sections:
     link_text: Bounties
   - link: https://www.ethswarm.org/#section-jobs
     link_text: Jobs
-  - link: "#blocks"
-    link_text: Blocks
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
