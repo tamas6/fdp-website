@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: https://app.daohaus.club/dao/0x89/0x12d913c76deaa584329b20bf10100a9736aa2ccc/proposals
     link_text: DAO
-  - link: "#customize"
+  - link: https://gitcoin.co/fairdatasociety
     link_text: Bounties
   - link: https://www.ethswarm.org/#section-jobs
     link_text: Jobs
