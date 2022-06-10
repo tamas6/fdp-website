@@ -92,7 +92,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   col_2: <a href="https://github.com/fairDataSociety" title="GitHub">GitHub</a>
-  col_4: <img src="/uploads/2022/06/10/twitter-logo-100-x-100-px.png">
+  col_4: <img src="/uploads/2022/06/10/twitter-logo-100-x-100-px.png" title="Twitter">
   col_3: <a href="https://discord.gg/RpX5eU4Cpr" title="Discord">Discord</a>
   image: ''
 - template: simple-footer
