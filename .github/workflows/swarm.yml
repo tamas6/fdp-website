@@ -31,7 +31,7 @@ jobs:
           # use .dev. for testnet uploads
           # or remove .dev. for mainnet uploads
           # or use your own private endpoint
-          bee-url: https://gateway.dev.fairdatasociety.org/proxy/
+          bee-url: https://gateway.fairdatasociety.org/proxy/
           dir: ./dist
           index-document: index.html
 
@@ -40,7 +40,7 @@ jobs:
         uses: ethersphere/swarm-actions/write-feed@latest
         with:
           # Same as above regarding bee-url
-          bee-url: https://gateway.dev.fairdatasociety.org/proxy/
+          bee-url: https://gateway.fairdatasociety.org/proxy/
           # takes the reference from the uploaded dir
           reference: ${{ steps.swarm-upload.outputs.reference }}
           # make up some topic name
