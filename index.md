@@ -84,7 +84,7 @@ page_sections:
   content: <a href="https://fairdrive.fairdatasociety.org/" title="Fairdrive"><strong>FairDrive</strong></a><strong><br></strong>A
     dapp that enables decentralized storage using Swarm<br><br><a href="https://github.com/fairDataSociety/FairPass"
     title="FairPass"><strong>FairPass</strong></a><strong><br></strong>A decentralized
-    password manager for desktop and mobile OSs
+    password manager for desktop and mobile
   slug: ''
   media:
     image: ''
