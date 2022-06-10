@@ -81,7 +81,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Applications
-  content: FairDrive<br>FairPass
+  content: <a href="https://fairdrive.fairdatasociety.org/" title="Fairdrive">FairDrive</a><br><a
+    href="https://github.com/fairDataSociety/FairPass" title="FairPass">FairPass</a>
   slug: ''
   media:
     image: ''
