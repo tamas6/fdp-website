@@ -13,7 +13,7 @@ page_sections:
     link_text: DAO
   - link: "#customize"
     link_text: Bounties
-  - link: "#responsive"
+  - link: https://www.ethswarm.org/#section-jobs
     link_text: Jobs
   - link: "#blocks"
     link_text: Blocks
