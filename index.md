@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Get Started
   - link: "#swap"
-    link_text: Swap
+    link_text: DAO
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
