@@ -15,6 +15,9 @@ page_sections:
     link_text: Bounties
   - link: https://www.ethswarm.org/#section-jobs
     link_text: Jobs
+  cta:
+    url: https://github.com/fairDataSociety
+    button_text: Get Started
 - template: hero-banner-w-image
   block: hero-2
   slug: features
