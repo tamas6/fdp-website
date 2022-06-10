@@ -28,7 +28,7 @@ page_sections:
     seamless transition from Web2 to Web3.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/fairDataSociety
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
