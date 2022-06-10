@@ -89,8 +89,8 @@ page_sections:
     alt_text: ''
 - template: 4-column-footer
   block: footer-2
-  col_2: <img src="/uploads/2022/06/10/github-logo.svg">
-  col_4: <img src="/uploads/2022/06/10/twitter-logo.svg">
+  col_2: <img src="/uploads/2022/06/10/2.svg">
+  col_4: <img src="/uploads/2022/06/10/1.svg">
   col_3: <img src="/uploads/2022/06/10/discord-100x100.svg">
   image: ''
 - template: simple-footer
