@@ -45,7 +45,7 @@ page_sections:
     slug: ''
     content: ''
   col_3:
-    headline: ''
+    headline: Self Sovereignty
     slug: ''
     content: ''
 - template: content-feature
