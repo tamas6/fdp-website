@@ -41,7 +41,7 @@ page_sections:
     content: ''
     headline: Interoperability
   col_2:
-    headline: ''
+    headline: Scalability
     slug: ''
     content: ''
   col_3:
