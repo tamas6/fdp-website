@@ -38,12 +38,14 @@ page_sections:
   block: three-column-1
   col_1:
     slug: ''
-    content: ''
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
     headline: Interoperability
   col_2:
     headline: Scalability
     slug: ''
-    content: ''
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
   col_3:
     headline: Self Sovereignty
     slug: ''
