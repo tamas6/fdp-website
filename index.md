@@ -7,8 +7,6 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/06/10/fdp-logo-w-text.svg"
   navigation:
-  - link: https://github.com/fairDataSociety
-    link_text: Get Started
   - link: https://app.daohaus.club/dao/0x89/0x12d913c76deaa584329b20bf10100a9736aa2ccc/proposals
     link_text: DAO
   - link: "#customize"
