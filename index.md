@@ -42,12 +42,12 @@ page_sections:
       tempor incididunt ut labore et dolore magna aliqua.
     headline: Interoperability
   col_2:
-    headline: Scalability
+    headline: Web3 Environment
     slug: ''
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
   col_3:
-    headline: Self Sovereignty
+    headline: Web3 Framework
     slug: ''
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
