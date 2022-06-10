@@ -14,7 +14,7 @@ page_sections:
   - link: "#customize"
     link_text: Bounties
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Jobs
   - link: "#blocks"
     link_text: Blocks
   cta:
