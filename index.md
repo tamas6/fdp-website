@@ -24,8 +24,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: Fair Data Protocol Ecosystem <br><strong>Your path to Interoperability</strong>
-  content: 'We believe in Interoperability and supplying developers with the toolkit
-    they need to make a seamless transition. '
+  content: We believe in supplying developers with the toolkit they need to make a
+    seamless transition from Web2 to Web3.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
