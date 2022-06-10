@@ -93,14 +93,16 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
 - template: 4-column-footer
   block: footer-2
   col_2: <a href="https://github.com/fairDataSociety" title="GitHub">GitHub</a>
   col_4: <a href="https://twitter.com/FairDataSociety" title="Twitter">Twitter</a>
   col_3: <a href="https://discord.gg/RpX5eU4Cpr" title="Discord">Discord</a>
   image: ''
+- template: simple-footer
+  block: footer-1
+  content: <strong>Storage Enabling Technologies</strong><br><a href="https://www.ethswarm.org/"
+    title="Swarm">Swarm</a><br><a href="https://fairdatasociety.org/" title="Fair
+    Data Society">Fair Data Society</a>
 
 ---
