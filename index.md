@@ -87,7 +87,7 @@ page_sections:
     password manager for desktop and mobile
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2022/06/10/applications-asset.png"
     alt_text: ''
 - template: 4-column-footer
   block: footer-2
