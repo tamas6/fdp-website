@@ -18,7 +18,7 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           target_branch: "master"
-          jekyll_build_options: "--config _config.yml"
+          jekyll_build_options: "--source . --config _config.yml --destination ./dist"
           build_only: true
           
 
@@ -32,7 +32,7 @@ jobs:
           # or remove .dev. for mainnet uploads
           # or use your own private endpoint
           bee-url: https://gateway.dev.fairdatasociety.org/proxy/
-          dir: /github/_site
+          dir: ./dist
           index-document: index.html
 
       - name: update feed
