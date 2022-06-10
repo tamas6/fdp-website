@@ -93,7 +93,7 @@ page_sections:
     src="/uploads/2022/06/10/github-logo-100x100.png"></a>
   col_4: <a href="https://twitter.com/FairDataSociety" title=""><img src="/uploads/2022/06/10/twitter-logo-100-x-100-px.png"
     title="Twitter"></a>
-  col_3: <a href="https://discord.gg/" title="Fair Data Society Discord"><img src="/uploads/2022/06/10/discord-logo-100x100.png"></a>
+  col_3: <img src="/uploads/2022/06/10/discord-logo.svg">
   image: ''
 - template: simple-footer
   block: footer-1
