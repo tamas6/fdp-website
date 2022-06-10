@@ -55,9 +55,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: Enabling Developers to get from<strong> Web2 </strong>to<strong> Web3</strong>
-  content: The Fair Data Protocol is an on ramp that easily allows developers to set
-    up their projects for Web3.
+  headline: Fair Data Protocol Toolkit
+  content: FDP Contracts<br>FDP JS-library for FDP account creation<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
