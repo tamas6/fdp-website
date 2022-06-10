@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Fair Data Protocol Ecosystem <br><strong>Helping to define Interoperability</strong>
+  headline: Fair Data Protocol Ecosystem <br><strong>Your path to Interoperability</strong>
   content: 'We believe in Interoperability and supplying developers with the toolkit
     they need to make a seamless transition. '
   cta:
