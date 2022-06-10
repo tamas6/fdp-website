@@ -38,8 +38,9 @@ page_sections:
   block: three-column-1
   col_1:
     slug: ''
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'The Fair Data Economy toolset that can easily be combined with other
+      projects that enables the creation of new products &amp; services leveraging
+      the blockchain. '
     headline: Interoperability
   col_2:
     headline: Web3 Environment
