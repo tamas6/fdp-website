@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2022/06/10/fdp-logo-w-text.svg"
   navigation:
   - link: https://github.com/fairDataSociety
     link_text: Get Started
@@ -82,15 +82,16 @@ page_sections:
     password manager for desktop and mobile
   slug: ''
   media:
-    image: "/uploads/2022/06/10/applications-asset.png"
+    image: "/uploads/2022/06/10/applications-asset.svg"
     alt_text: ''
 - template: 4-column-footer
   block: footer-2
   col_2: <a href="https://github.com/fairDataSociety" title="Fair Data Society GitHub"><img
-    src="/uploads/2022/06/10/github-logo-100x100.png"></a>
-  col_4: <a href="https://twitter.com/FairDataSociety" title=""><img src="/uploads/2022/06/10/twitter-logo-100-x-100-px.png"
-    title="Twitter"></a>
-  col_3: <a href="https://discord.gg/" title="Fair Data Society Discord"><img src="/uploads/2022/06/10/discord-logo-100x100.png"></a>
+    src="/uploads/2022/06/10/2.svg"></a>
+  col_4: <a href="https://twitter.com/FairDataSociety" title="Fair Data Society Twitter"><img
+    src="/uploads/2022/06/10/1.svg"></a>
+  col_3: <a href="https://discord.gg/P4sKT3D2" title="Fair Data Society Discord"><img
+    src="/uploads/2022/06/10/discord-100x100.svg"></a>
   image: ''
 - template: simple-footer
   block: footer-1
