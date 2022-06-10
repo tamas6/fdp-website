@@ -24,8 +24,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: 'We believe in Interoperability and supplying developers with the toolkit
+    they need to make a seamless transition. '
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
