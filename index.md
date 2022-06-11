@@ -99,7 +99,7 @@ page_sections:
     storage on Swarm. It consists of a typical &quot;Drive&quot; interface with files
     and folders, and a BZZ wallet to manage token balances and keypairs. " title="">here</a>.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2022/06/11/blockchain-3d-image.jpeg"
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
