@@ -122,7 +122,7 @@ page_sections:
   col_2: <a href="https://github.com/fairDataSociety" title="GitHub">GitHub</a>
   col_4: <a href="https://twitter.com/fairdatasociety" title="Twitter">Twitter</a>
   col_3: <a href="https://discord.gg/RpX5eU4Cpr" title="Discord">Discord</a>
-  image: ''
+  image: "/uploads/2022/06/11/fdp-logo-only.png"
 - template: simple-footer
   block: footer-1
   content: <strong>Enabled by</strong><br><a href="https://www.ethswarm.org/" title="Swarm">Swarm</a><br><a
