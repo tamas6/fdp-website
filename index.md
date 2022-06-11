@@ -89,19 +89,12 @@ page_sections:
   media_alignment: Left
   slug: customize
   headline: "<strong>FairOS</strong>"
-  content: <strong>FairOS</strong><br>You can access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
+  content: '<strong>FairOS</strong><br>You can access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
     title="">here</a>. <br><br><strong>FairOS in WASM</strong><br>This is the fairOS-dfs
     library now supported in WASM. You can access the GitHub <a href="Fairdrive is
     a dApp that enables decentralized storage on Swarm. It consists of a typical &quot;Drive&quot;
     interface with files and folders, and a BZZ wallet to manage token balances and
-    keypairs. " title="">here</a>. <br><br><strong>Applications</strong><br>FairDrive
-    - Fairdrive is a dApp that enables decentralized storage on Swarm. It consists
-    of a typical "Drive" interface with files and folders, and a BZZ wallet to manage
-    token balances and keypairs.You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-theapp"
-    title="">here</a>. <br><br>FairPass - A decentralized password manager built with
-    FairOS on top of Swarm storage. It can save "passwords" and "notes" and works
-    for desktop and mobile. You can access the GitHub <a href="https://github.com/fairDataSociety/FairPass"
-    title="">here</a>. <br>
+    keypairs. " title="">here</a>. '
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
