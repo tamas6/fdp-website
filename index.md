@@ -72,6 +72,11 @@ page_sections:
     generated are 32 bytes from which a public key is derived which can then derive
     the ETH addresses needed. From under this 1 ETH address we can find all data attached
     to the user's Fairdrive instance. </p>"
+- template: detail-content
+  block: text-1
+  headline: FDP Storage
+  content: <p>This is FairOS in JavaScript. Access the GitHub <a href="https://github.com/fairDataSociety/fdp-storage"
+    title="here">here</a>. </p>
 - template: content-feature
   block: feature-1
   media_alignment: Right
