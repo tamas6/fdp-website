@@ -77,6 +77,11 @@ page_sections:
   headline: FDP Storage
   content: <p>This is FairOS in JavaScript. Access the GitHub <a href="https://github.com/fairDataSociety/fdp-storage"
     title="here">here</a>. </p>
+- template: detail-content
+  block: text-1
+  headline: FDP Processor Library
+  content: "<p><strong>Beeson</strong></p><p>Blockchain-verifiable, extensible encapsulation
+    for schema-based object notation in Swarm.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
