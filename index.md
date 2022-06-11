@@ -54,15 +54,6 @@ page_sections:
       network.
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: Fair Data Protocol Toolkit
-  content: Fair Data Protocol<br>FDP Contracts<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
   media_alignment: Right
   content: <strong>Protocol</strong><br>This is a protocol can be used as a proxy
     for connecting to the Swarm network using FairOS. These components can be used
