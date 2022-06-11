@@ -46,9 +46,11 @@ page_sections:
       silos by relying on the network of peers to host the data giving end users ultimate
       control.
   col_3:
-    headline: Web3 Framework
+    headline: Scalability
     slug: ''
-    content: 'The Fair Data Protocol toolset '
+    content: Leveraging the properties of Swarm decentralized storage, popular content
+      gets hosted on more nodes and a level of redundancy exists as property of the
+      network.
 - template: content-feature
   block: feature-1
   media_alignment: Left
