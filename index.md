@@ -29,7 +29,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2022/06/11/ferdinand-stohr-nfs6drtbgam-unsplash.jpeg"
 - template: 3-column-text
   block: three-column-1
