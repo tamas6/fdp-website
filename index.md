@@ -58,10 +58,17 @@ page_sections:
   media_alignment: Left
   slug: swap
   headline: Fair Data Protocol Toolkit
-  content: FDP Contracts<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
+  content: Fair Data Protocol<br>FDP Contracts<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+- template: detail-content
+  block: text-1
+  headline: Protocol
+  content: <p>This is a React component modal that can be used as a proxy for connecting
+    to the Swarm network using FairOS and Fairdrive Protocol. These components can
+    be used to kick start your Fairdrive App. You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-protocol"
+    title="">here</a>. </p>
 - template: detail-content
   block: text-1
   headline: FDP Contracts
