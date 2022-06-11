@@ -115,7 +115,7 @@ page_sections:
     title="">here</a>.
   slug: ''
   media:
-    image: "/uploads/2022/06/10/applications-asset.svg"
+    image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
     alt_text: ''
 - template: 4-column-footer
   block: footer-2
