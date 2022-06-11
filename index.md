@@ -65,13 +65,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: FDP Contracts
-  content: "<p><strong>BMT Contracts</strong></p><p>Swarm hashes can be verifiable
+  content: <p><strong>BMT Contracts</strong></p><p>Swarm hashes can be verifiable
     on chain via BMT. Fair Data Protocol has a full data function and coordinating
-    JS library to support this</p><p><strong>ENS Contracts</strong></p><p>A reserved
-    ENS name with an associated ETH address is used for Fairdrive Account ID. Locally
+    JS library to support this. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/bmt-js"
+    title="">here</a>. </p><p><strong>ENS Contracts</strong></p><p>A reserved ENS
+    name with an associated ETH address is used for Fairdrive Account ID. Locally
     generated are 32 bytes from which a public key is derived which can then derive
     the ETH addresses needed. From under this 1 ETH address we can find all data attached
-    to the user's Fairdrive instance. </p>"
+    to the user's Fairdrive instance. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
+    title="">here</a>. </p>
 - template: detail-content
   block: text-1
   headline: FDP Storage
