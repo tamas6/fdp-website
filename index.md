@@ -95,10 +95,10 @@ page_sections:
     It consists of two layers, namely FairOS-dfs (storage) and FairOS-compute (compute).
     You can access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
     title="">here</a>.<br><br><strong>FairOS in WASM</strong><br>FairOS-dfs library
-    is supported in WASM. You can access the GitHub <a href="Fairdrive is a dApp that
-    enables decentralized storage on Swarm. It consists of a typical &quot;Drive&quot;
-    interface with files and folders, and a BZZ wallet to manage token balances and
-    keypairs. " title="">here</a>.
+    works in WASM. You can access the GitHub <a href="Fairdrive is a dApp that enables
+    decentralized storage on Swarm. It consists of a typical &quot;Drive&quot; interface
+    with files and folders, and a BZZ wallet to manage token balances and keypairs.
+    " title="">here</a>.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
