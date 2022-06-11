@@ -58,7 +58,7 @@ page_sections:
   media_alignment: Left
   slug: swap
   headline: Fair Data Protocol Toolkit
-  content: FDP Contracts<br>ENS Contract<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
+  content: FDP Contracts<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
