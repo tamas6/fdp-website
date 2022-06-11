@@ -86,10 +86,10 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: customize
   headline: "<strong>FairOS</strong>"
-  content: Repo | Docs<br>FairOS in WASM<br>Client Examples
+  content: Repo | Docs<br><br>FairOS in WASM<br><br>Client Examples
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
