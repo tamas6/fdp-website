@@ -17,7 +17,7 @@ page_sections:
     link_text: Jobs
   cta:
     url: https://github.com/fairDataSociety
-    button_text: Get Started
+    button_text: GitHub
 - template: hero-banner-w-image
   block: hero-2
   slug: features
