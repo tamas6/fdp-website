@@ -51,6 +51,16 @@ page_sections:
     content: Leveraging the properties of Swarm decentralized storage, popular content
       gets hosted on more nodes and a level of redundancy exists as property of the
       network.
+- template: detail-content
+  block: text-1
+  headline: FDP Contracts
+  content: "<p><strong>BMT Contracts</strong></p><p>Swarm hashes can be verifiable
+    on chain via BMT. Fair Data Protocol has a full data function and coordinating
+    JS library to support this</p><p><strong>ENS Contracts</strong></p><p>A reserved
+    ENS name with an associated ETH address is used for Fairdrive Account ID. Locally
+    generated are 32 bytes from which a public key is derived which can then derive
+    the ETH addresses needed. From under this 1 ETH address we can find all data attached
+    to the user's Fairdrive instance. </p>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
