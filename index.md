@@ -61,30 +61,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: detail-content
-  block: text-1
-  headline: Protocol
-  content: <p>This is a protocol can be used as a proxy for connecting to the Swarm
-    network using FairOS. These components can be used to kick start your Fairdrive
-    App. You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-protocol"
-    title="">here</a>. </p>
-- template: detail-content
-  block: text-1
-  headline: FDP Contracts
-  content: <p><strong>BMT Contracts</strong></p><p>Swarm hashes can be verifiable
-    on chain via BMT. Fair Data Protocol has a full data function and coordinating
-    JS library to support this. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/bmt-js"
-    title="">here</a>. </p><p><strong>ENS Contracts</strong></p><p>A reserved ENS
-    name with an associated ETH address is used for Fairdrive Account ID. Locally
-    generated are 32 bytes from which a public key is derived which can then derive
-    the ETH addresses needed. From under this 1 ETH address we can find all data attached
-    to the user's Fairdrive instance. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
-    title="">here</a>. </p>
-- template: detail-content
-  block: text-1
-  headline: FDP Storage
-  content: <p>This is FairOS in JavaScript. Access the GitHub <a href="https://github.com/fairDataSociety/fdp-storage"
-    title="here">here</a>. </p>
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -117,20 +93,6 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: FDP Processor Library
-  content: <p><strong>Beeson</strong></p><p>Blockchain-verifiable, extensible encapsulation
-    for schema-based object notation in Swarm. You can access the GitHub documentation
-    <a href="https://github.com/fairDataSociety/beeson" title="">here</a>. </p>
-- template: detail-content
-  block: text-1
-  headline: Extensions
-  content: <p>Blossom</p><p>This browser extension based on Fair Data Protocol serves
-    as a framework for FDP developers and an environment for Web3 users. It provides
-    complete traceless Web3 browsing and is the first user facing application of FDP.
-    You can access the GitHub documentation <a href="https://github.com/fairDataSociety/blossom"
-    title="">here</a>. </p>
 - template: content-feature
   block: feature-1
   media_alignment: Right
