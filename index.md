@@ -82,8 +82,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: FDP Processor Library
-  content: "<p><strong>Beeson</strong></p><p>Blockchain-verifiable, extensible encapsulation
-    for schema-based object notation in Swarm.</p>"
+  content: <p><strong>Beeson</strong></p><p>Blockchain-verifiable, extensible encapsulation
+    for schema-based object notation in Swarm. You can access the GitHub documentation
+    <a href="https://github.com/fairDataSociety/beeson" title="">here</a>. </p>
 - template: detail-content
   block: text-1
   headline: Extensions
