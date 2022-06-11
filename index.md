@@ -112,7 +112,7 @@ page_sections:
     Web3 browsing and is the first user facing application of FDP. You can access
     the GitHub documentation<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/blossom"
     title="">here</a>.<br>
-  headline: ''
+  headline: Fair Data Protocol Toolkit
   slug: ''
   media:
     image: ''
