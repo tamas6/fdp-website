@@ -82,7 +82,7 @@ page_sections:
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2022/06/11/screen-shot-2022-06-11-at-1-44-19-pm.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
