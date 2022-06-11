@@ -128,8 +128,7 @@ page_sections:
   image: ''
 - template: simple-footer
   block: footer-1
-  content: <strong>Storage Enabling Technologies</strong><br><a href="https://www.ethswarm.org/"
-    title="Swarm">Swarm</a><br><a href="https://fairdatasociety.org/" title="Fair
-    Data Society">Fair Data Society</a>
+  content: <strong>Enabled by</strong><br><a href="https://www.ethswarm.org/" title="Swarm">Swarm</a><br><a
+    href="https://fairdatasociety.org/" title="Fair Data Society">Fair Data Society</a>
 
 ---
