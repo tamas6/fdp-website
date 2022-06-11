@@ -84,6 +84,13 @@ page_sections:
   headline: FDP Processor Library
   content: "<p><strong>Beeson</strong></p><p>Blockchain-verifiable, extensible encapsulation
     for schema-based object notation in Swarm.</p>"
+- template: detail-content
+  block: text-1
+  headline: Extensions
+  content: "<p>Blossom</p><p>This browser extension based on Fair Data Protocol serves
+    as a framework for FDP developers and an environment for Web3 users. It provides
+    complete traceless Web3 browsing and is the first user facing application of FDP.
+    </p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
