@@ -53,7 +53,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: <br><strong>Blossom</strong><br>This browser extension based on Fair Data
+  content: '<br><strong>Blossom</strong><br>This browser extension based on Fair Data
     Protocol serves as a framework for FDP developers and an environment for Web3
     users acting as their user agent allowing Single Sign On. It provides complete
     traceless Web3 browsing and is the first user facing application of FDP. You can
@@ -62,14 +62,15 @@ page_sections:
     Storage</strong><br>FairOS implementation in JavaScript. You can access the GitHub<span
     class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fdp-storage"
     title="here">here</a>.<br><br><strong>FDP Contracts</strong><br>Contracts used
-    in development, including BMT contracts and ENS contracts. <br><br>BMT Contracts
-    - Swarm hashes can be verifiable on chain via Binary Merkle Trees. Fair Data Protocol
-    has a full data function and coordinating JS library to support this. You can
+    in development, including BMT contracts and ENS contracts. <br><br><span style="text-decoration:
+    underline;">BMT Contracts</span> - Swarm hashes can be verifiable on chain via
+    Binary Merkle Trees. Fair Data Protocol has a full data function and coordinating
+    JS library to support this. You can access the GitHub documentation<span class="Apple-converted-space">
+    </span><a href="https://github.com/fairDataSociety/bmt-js" title="">here</a>.<br><br><span
+    style="text-decoration: underline;">ENS Contracts</span> - A reserved ENS name
+    with an associated ETH address is used for Fair Data Protocol accounts. You can
     access the GitHub documentation<span class="Apple-converted-space"> </span><a
-    href="https://github.com/fairDataSociety/bmt-js" title="">here</a>.<br><br>ENS
-    Contracts - A reserved ENS name with an associated ETH address is used for Fair
-    Data Protocol accounts. You can access the GitHub documentation<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
+    href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
     title="">here</a>.<br><br><strong>FDP Processor Library</strong><br>Beeson - A
     Blockchain-verifiable, extensible encapsulation for schema-based object notation
     in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
@@ -77,7 +78,7 @@ page_sections:
     Connect</strong><br>A set of convenience components that can be included in dApps
     to support FairOS. These components were used in the reference Fairdrive App.
     You can access the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairos-connect/"
-    title="">here</a>. <br>
+    title="">here</a>. <br>'
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
