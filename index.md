@@ -73,11 +73,11 @@ page_sections:
     title="">here</a>.<br><br><strong>FDP Processor Library</strong><br>Beeson - A
     Blockchain-verifiable, extensible encapsulation for schema-based object notation
     in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.<br><br><strong>Fairdrive
-    Protocol</strong><br>A set of convenience components that can be included in dApps
+    </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.<br><br><strong>FairOS
+    Connect</strong><br>A set of convenience components that can be included in dApps
     to support FairOS. These components were used in the reference Fairdrive App.
-    You can access the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairdrive-protocol"
-    title="">here</a>. NOT COMPATIBLE WITH LATEST VERSION OF FDP<br>
+    You can access the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairos-connect/"
+    title="">here</a>. <br>
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
