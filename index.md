@@ -28,7 +28,7 @@ page_sections:
     url: https://github.com/fairDataSociety
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2022/06/11/142-1426563_ethereum-icon-line-symbol-isolated-vector-stock-vector.png"
     alt_text: Product Shot
   background_image: "/uploads/2022/06/11/ferdinand-stohr-nfs6drtbgam-unsplash.jpeg"
 - template: 3-column-text
