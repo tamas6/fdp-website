@@ -24,7 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: 'Fair Data Protocol Ecosystem '
-  content: Your path to <strong>Interoperability</strong>
+  content: Your path to Interoperability
   cta:
     enabled: true
     url: https://github.com/fairDataSociety
