@@ -65,9 +65,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Protocol
-  content: <p>This is a React component modal that can be used as a proxy for connecting
-    to the Swarm network using FairOS and Fairdrive Protocol. These components can
-    be used to kick start your Fairdrive App. You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-protocol"
+  content: <p>This is a protocol can be used as a proxy for connecting to the Swarm
+    network using FairOS. These components can be used to kick start your Fairdrive
+    App. You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-protocol"
     title="">here</a>. </p>
 - template: detail-content
   block: text-1
