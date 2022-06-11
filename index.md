@@ -72,14 +72,6 @@ page_sections:
     generated are 32 bytes from which a public key is derived which can then derive
     the ETH addresses needed. From under this 1 ETH address we can find all data attached
     to the user's Fairdrive instance. </p>"
-- template: detail-content
-  block: text-1
-  headline: Fair Data Protocol
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -89,6 +81,14 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: detail-content
+  block: text-1
+  headline: Fair Data Protocol
+  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
+    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
+    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
+    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
+    Blocks and preview them as you go along.</p></li></ol>
 - template: content-feature
   block: feature-1
   media_alignment: Right
