@@ -87,10 +87,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Extensions
-  content: "<p>Blossom</p><p>This browser extension based on Fair Data Protocol serves
+  content: <p>Blossom</p><p>This browser extension based on Fair Data Protocol serves
     as a framework for FDP developers and an environment for Web3 users. It provides
     complete traceless Web3 browsing and is the first user facing application of FDP.
-    </p>"
+    You can access the GitHub documentation <a href="https://github.com/fairDataSociety/blossom"
+    title="">here</a>. </p>
 - template: content-feature
   block: feature-1
   media_alignment: Right
