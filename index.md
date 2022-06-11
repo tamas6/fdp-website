@@ -88,15 +88,15 @@ page_sections:
   media_alignment: Left
   slug: customize
   headline: "<strong>FairOS</strong>"
-  content: <strong>FairOS</strong><br>FairOS is a decentralized operating system that
-    manages the resources of the computers in its network, like storage and compute.
-    The nodes that run FairOS will be part of the global network that will run applications
-    which can make use of the storage and compute that is available. It consists of
-    two layers, namely FairOS-dfs (storage) and FairOS-compute (compute). You can
-    access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
-    title="">here</a>.<br><br><strong>FairOS in WASM</strong><br>This is the fairOS-dfs
-    library now supported in WASM. You can access the GitHub <a href="Fairdrive is
-    a dApp that enables decentralized storage on Swarm. It consists of a typical &quot;Drive&quot;
+  content: <strong>FairOS</strong><br>FairOS is aiming to become a decentralized operating
+    system that manages the resources of the computers in its network, like storage
+    and compute. The nodes that run FairOS will be part of the global network that
+    will run applications which can make use of the storage and compute that is available.
+    It consists of two layers, namely FairOS-dfs (storage) and FairOS-compute (compute).
+    You can access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
+    title="">here</a>.<br><br><strong>FairOS in WASM</strong><br>FairOS-dfs library
+    is supported in WASM. You can access the GitHub <a href="Fairdrive is a dApp that
+    enables decentralized storage on Swarm. It consists of a typical &quot;Drive&quot;
     interface with files and folders, and a BZZ wallet to manage token balances and
     keypairs. " title="">here</a>.
   media:
