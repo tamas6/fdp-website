@@ -40,10 +40,11 @@ page_sections:
       from a data providers open up new opportunities to share and reuse data. '
     headline: Interoperability
   col_2:
-    headline: Web3 Environment
+    headline: 'Self Sovereignty '
     slug: ''
-    content: True decentralization is at the core of The Fair Data Protocol Economy
-      toolset.
+    content: Fair Data Protocol enables developers independence from clouds and data
+      silos by relying on the network of peers to host the data giving end users ultimate
+      control.
   col_3:
     headline: Web3 Framework
     slug: ''
