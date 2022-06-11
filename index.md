@@ -55,9 +55,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: <strong>Protocol</strong><br>This is a protocol can be used as a proxy
-    for connecting to the Swarm network using FairOS. These components can be used
-    to kick start your Fairdrive App. You can access the GitHub<span class="Apple-converted-space">
+  content: <strong>Protocol</strong><br>This is a protocol that can be used for connecting
+    to the Swarm network using FairOS. These components can be used to kick start
+    your Fairdrive App. You can access the GitHub<span class="Apple-converted-space">
     </span><a href="https://github.com/fairDataSociety/fairdrive-protocol" title="">here</a>.<br><br><strong>FDP
     Contracts</strong><br>BMT Contracts - Swarm hashes can be verifiable on chain
     via BMT. Fair Data Protocol has a full data function and coordinating JS library
@@ -69,7 +69,7 @@ page_sections:
     we can find all data attached to the user's Fairdrive instance. You can access
     the GitHub documentation<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
     title="">here</a>.<br><br><strong>FDP Storage</strong><br>This is FairOS in JavaScript.
-    Access the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fdp-storage"
+    You can access the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fdp-storage"
     title="here">here</a>.<br><br><strong>FDP Processor Library</strong><br>Beeson
     - A Blockchain-verifiable, extensible encapsulation for schema-based object notation
     in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
