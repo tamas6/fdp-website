@@ -51,6 +51,15 @@ page_sections:
     content: Leveraging the properties of Swarm decentralized storage, popular content
       gets hosted on more nodes and a level of redundancy exists as property of the
       network.
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: swap
+  headline: Fair Data Protocol Toolkit
+  content: FDP Contracts<br>ENS Contract<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
+  media:
+    image: "/uploads/2018/06/21/blocks-split.png"
+    alt_text: uBuild Blocks Mock-Up
 - template: detail-content
   block: text-1
   headline: FDP Contracts
@@ -61,15 +70,6 @@ page_sections:
     generated are 32 bytes from which a public key is derived which can then derive
     the ETH addresses needed. From under this 1 ETH address we can find all data attached
     to the user's Fairdrive instance. </p>"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: Fair Data Protocol Toolkit
-  content: FDP Contracts<br>FDP JS-library for FDP account creation<br>FDP Storage<br>BMT<br>Beeson<br>Blossom
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
 - template: detail-content
   block: text-1
   headline: Fair Data Protocol
