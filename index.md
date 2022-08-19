@@ -56,12 +56,13 @@ page_sections:
   content: '<strong>FDP Play</strong><br>The entry point for developers to start building
     with FDP - a CLI tool to spin up local development FDP environment with Docker.
     It includes a Bee cluster, FairOS instance and blockchain node. The GitHub code
-    and instructions are <a href="https://github.com/fairDataSociety/fdp-play" title="">here</a>.<br><br><strong>Blossom</strong><br>This
-    browser extension based on Fair Data Protocol serves as a framework for FDP developers
-    and an environment for Web3 users acting as their user agent allowing Single Sign
-    On. It provides complete traceless Web3 browsing and is the first user facing
-    application of FDP. You can access the GitHub documentation<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/blossom" title="">here</a>.<br><br><strong>FDP
+    and instructions are <a href="https://github.com/fairDataSociety/fdp-play" title="">here</a>.
+    <br><br><strong>Blossom</strong><br>This browser extension based on Fair Data
+    Protocol serves as a framework for FDP developers and an environment for Web3
+    users acting as their user agent allowing Single Sign On. It provides complete
+    traceless Web3 browsing and is the first user facing application of FDP. You can
+    access the GitHub documentation<span class="Apple-converted-space"> </span><a
+    href="https://github.com/fairDataSociety/blossom" title="">here</a>.<br><br><strong>FDP
     Storage</strong><br>FairOS implementation in JavaScript. You can access the GitHub<span
     class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fdp-storage"
     title="here">here</a>.<br><br><strong>FDP Contracts</strong><br>Contracts used
