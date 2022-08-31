@@ -35,8 +35,8 @@ page_sections:
   block: three-column-1
   col_1:
     slug: ''
-    content: 'Fair Data Protocol interoperability has several layers, where independence
-      from a data providers open up new opportunities to share and reuse data. '
+    content: Fair Data Protocol interoperability has several layers, where independence
+      from a data providers open up new opportunities to share and reuse data.
     headline: Interoperability
   col_2:
     headline: 'Self Sovereignty '
