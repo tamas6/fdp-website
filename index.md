@@ -132,5 +132,17 @@ page_sections:
   block: footer-1
   content: <strong>Enabled by</strong><br><a href="https://www.ethswarm.org/" title="Swarm">Swarm</a><br><a
     href="https://fairdatasociety.org/" title="Fair Data Society">Fair Data Society</a>
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Blossom
+  content: Blossom browser extension serves as a framework for Fair Data Protocol
+    developers and an environment for Web3 users acting as their user agent allowing
+    Single Sign On. It provides complete traceless Web3 browsing and is the first
+    user facing application of FDP. You can access the GitHub documentation here.
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
