@@ -53,28 +53,25 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: '<strong>FDP Play</strong><br>The entry point for developers to start building
-    with FDP - a CLI tool to spin up local development FDP environment with Docker.
-    It includes a Bee cluster, FairOS instance and blockchain node. The GitHub code
-    and instructions are <a href="https://github.com/fairDataSociety/fdp-play" title="">here</a>.
-    <br><br><strong>Blossom</strong><br>This browser extension based on Fair Data
-    Protocol serves as a framework for FDP developers and an environment for Web3
-    users acting as their user agent allowing Single Sign On. It provides complete
-    traceless Web3 browsing and is the first user facing application of FDP. You can
-    access the GitHub documentation<span class="Apple-converted-space"> </span><a
-    href="https://github.com/fairDataSociety/blossom" title="">here</a>.<br><br><strong>FDP
-    Storage</strong><br>FairOS implementation in JavaScript. You can access the GitHub<span
-    class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fdp-storage"
-    title="here">here</a>.<br><br><strong>FDP Contracts</strong><br>Contracts used
-    in development, including BMT contracts and ENS contracts. <br><br><span style="text-decoration:
-    underline;">BMT Contracts</span> - Swarm hashes can be verifiable on chain via
-    Binary Merkle Trees. Fair Data Protocol has a full data function and coordinating
-    JS library to support this. You can access the GitHub documentation<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/bmt-js" title="">here</a>.<br><br><span
-    style="text-decoration: underline;">ENS Contracts</span> - A reserved ENS name
-    with an associated ETH address is used for Fair Data Protocol accounts. You can
-    access the GitHub documentation<span class="Apple-converted-space"> </span><a
-    href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
+  content: 'Fair Data Protocol provides various libraries and packages for developers
+    to build using it. <br><br>The underlying storage is FairOS-dfs, based on Swarm
+    decentralized storage. It can be accessed through browser libraries or a dedicated
+    client.<br><br>Blossom browser extension is the user agent, that allows dApps
+    to access the storage.<br><br>Various other libraries are provided for more special
+    use cases. <strong><br><br>FDP Play</strong><br>FDP Play is entry point for developers
+    to start building with FDP - a CLI tool to spin up local development FDP environment
+    with Docker. It includes a Bee cluster, FairOS instance and blockchain node. The
+    GitHub code and instructions are <a href="https://github.com/fairDataSociety/fdp-play"
+    title="">here</a>.  Click and press play!<br><br><br><strong>FDP Contracts</strong><br>Contracts
+    used in development, including BMT contracts and ENS contracts. <br><br><span
+    style="text-decoration: underline;">BMT Contracts</span> - Swarm hashes can be
+    verifiable on chain via Binary Merkle Trees. Fair Data Protocol has a full data
+    function and coordinating JS library to support this. You can access the GitHub
+    documentation<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/bmt-js"
+    title="">here</a>.<br><br><span style="text-decoration: underline;">ENS Contracts</span>
+    - A reserved ENS name with an associated ETH address is used for Fair Data Protocol
+    accounts. You can access the GitHub documentation<span class="Apple-converted-space">
+    </span><a href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
     title="">here</a>.<br><br><strong>FDP Processor Library</strong><br>Beeson - A
     Blockchain-verifiable, extensible encapsulation for schema-based object notation
     in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
