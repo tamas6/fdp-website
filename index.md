@@ -53,7 +53,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: 'Fair Data Protocol provides various libraries and packages for developers
+  content: Fair Data Protocol provides various libraries and packages for developers
     to build using it. <br><br>The underlying storage is FairOS-dfs, based on Swarm
     decentralized storage. It can be accessed through browser libraries or a dedicated
     client.<br><br>Blossom browser extension is the user agent, that allows dApps
@@ -62,20 +62,7 @@ page_sections:
     to start building with FDP - a CLI tool to spin up local development FDP environment
     with Docker. It includes a Bee cluster, FairOS instance and blockchain node. The
     GitHub code and instructions are <a href="https://github.com/fairDataSociety/fdp-play"
-    title="">here</a>. Click and press play!<br><br><br><strong>FDP Contracts</strong><br>Contracts
-    used in development, including BMT contracts and ENS contracts. <br><br><span
-    style="text-decoration: underline;">BMT Contracts</span> - Swarm hashes can be
-    verifiable on chain via Binary Merkle Trees. Fair Data Protocol has a full data
-    function and coordinating JS library to support this. You can access the GitHub
-    documentation<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/bmt-js"
-    title="">here</a>.<br><br><span style="text-decoration: underline;">ENS Contracts</span>
-    - A reserved ENS name with an associated ETH address is used for Fair Data Protocol
-    accounts. You can access the GitHub documentation<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
-    title="">here</a>.<br><br><strong>FDP Processor Library</strong><br>Beeson - A
-    Blockchain-verifiable, extensible encapsulation for schema-based object notation
-    in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.<br>'
+    title="">here</a>. Click and press play!<br>
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
