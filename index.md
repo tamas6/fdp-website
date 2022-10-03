@@ -155,7 +155,7 @@ page_sections:
   media_alignment: Right
   headline: bmt-js library
   media:
-    image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
+    image: "/uploads/2022/10/03/dall-e-2022-10-03-23-26-24-computer-library-for-security-and-privacy-on-the-blockchain.png"
     alt_text: ''
   slug: ''
   content: bmt-js is a JavaScript library that does Binary Merkle Tree (BMT) operations
