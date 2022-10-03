@@ -91,7 +91,7 @@ page_sections:
     used in the reference Fairdrive App. You can access the GitHub<span class="Apple-converted-space">
     </span><a href="https://github.com/fairDataSociety/fairos-connect/" title="">here</a>.
   media:
-    image: "/uploads/2022/06/11/blockchain-3d-image.jpeg"
+    image: "/uploads/2022/10/03/dall-e-2022-10-03-23-17-19-an-operating-system-of-the-future-that-allows-decentralized-data-storage.png"
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
