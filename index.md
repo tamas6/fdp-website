@@ -46,11 +46,10 @@ page_sections:
     content: Fair Data Protocol enables independence from clouds and data silos by
       relying on the network of peers to host the data giving end users ultimate control.
   col_3:
-    headline: Scalability
+    headline: Privacy
     slug: ''
-    content: Leveraging the properties of Swarm decentralized storage, popular content
-      gets hosted on more nodes and a level of redundancy exists as property of the
-      network.
+    content: Fair Data Protocol enables a private space in the decentralized cloud,
+      the prerequisite for digital freedom.
 - template: content-feature
   block: feature-1
   media_alignment: Right
