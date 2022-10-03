@@ -124,7 +124,7 @@ page_sections:
     </span><a href="https://github.com/fairDataSociety/FairPass" title="">here</a>.
   slug: ''
   media:
-    image: "/uploads/2022/06/11/blockchain-3d-image.jpeg"
+    image: "/uploads/2022/10/03/dall-e-2022-10-03-23-23-57-applications-using-web3-storage-for-personal-data-and-security-and-privacy.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
