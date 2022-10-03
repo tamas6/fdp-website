@@ -152,17 +152,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: bmt-js is a JavaScript library that does <a href="https://en.wikipedia.org/wiki/Merkle_tree">Binary
-    Merkle Tree</a> (BMT) operations on data. The library calculates the content address
-    of any data and also offers functions for performing cheap compact inclusion proof
-    of any 32 bytes segments in it. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/bmt-js"
-    title="bmt-js library">here</a>. Watch the explainer <a href="https://youtu.be/LBt7dUVmgto"
-    title="BMT explainer video">video</a>.
+  headline: bmt-js library
   media:
     image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
     alt_text: ''
   slug: ''
-  content: ''
+  content: bmt-js is a JavaScript library that does Binary Merkle Tree (BMT) operations
+    on data. The library calculates the content address of any data and also offers
+    functions for performing cheap compact inclusion proof of any 32 bytes segments
+    in it. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/bmt-js"
+    title="bmt-js library">here</a>. Watch the explainer <a href="https://youtu.be/LBt7dUVmgto"
+    title="BMT explainer video">video</a>.
 - template: content-feature
   block: feature-1
   media_alignment: Left
