@@ -98,8 +98,9 @@ page_sections:
   headline: Blossom
   content: Blossom browser extension serves as a framework for Fair Data Protocol
     developers and an environment for Web3 users acting as their user agent allowing
-    Single Sign On. It provides complete traceless Web3 browsing and is the first
-    user facing application of FDP. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/blossom"
+    Single Sign In. It provides complete traceless Web3 browsing, handles the user
+    wallet and provides a FDP Storage interface for managing the User Personal Storage
+    for dApps.<br>You can access the GitHub documentation <a href="https://github.com/fairDataSociety/blossom"
     title="Blossom repo">here</a>.
   slug: ''
   media:
