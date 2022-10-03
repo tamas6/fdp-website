@@ -143,7 +143,7 @@ page_sections:
   content: The Fair Data Protocol improvement proposal (FIP) process is intended to
     provide a path for new specifications and features to be added to the Fair Data
     Protocol. This provides all the stakeholders with option to influence the direction
-    the Fair Data Protocol evolution. The FIP process is described in the GitHub <a
+    of Fair Data Protocol evolution. The FIP process is described in the GitHub <a
     href="https://github.com/fairDataSociety/FIPs" title="FIPs repo">repo</a>.
   slug: ''
   media:
