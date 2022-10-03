@@ -135,7 +135,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Other Tools
   slug: ''
   content: '<strong>FDP Contracts</strong><br>Contracts used in development, including
