@@ -89,17 +89,20 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: customize
-  headline: "<strong>FairOS</strong>"
-  content: <strong>FairOS</strong><br>FairOS is aiming to become a decentralized operating
-    system that manages the resources of the computers in its network, like storage
-    and compute. The nodes that run FairOS will be part of the global network that
-    will run applications which can make use of the storage and compute that is available.
-    It consists of two layers, namely FairOS-dfs (storage) and FairOS-compute (compute).
-    You can access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
-    title="">here</a>.<br><br><strong>FairOS in WASM</strong><br>FairOS-dfs library
-    in WASM. You can access the GitHub <a href="Fairdrive is a dApp that enables decentralized
-    storage on Swarm. It consists of a typical &quot;Drive&quot; interface with files
-    and folders, and a BZZ wallet to manage token balances and keypairs. " title="">here</a>.
+  headline: FairOS-dfs
+  content: <strong>FairOS-dfs</strong><br>FairOS is aiming to become a decentralized
+    operating system that manages the resources of the computers in its network, like
+    storage and compute. The nodes that run FairOS will be part of the global network
+    that will run applications which can make use of the storage and compute that
+    is available. It consists of two layers, namely FairOS-dfs (storage) and FairOS-compute
+    (compute). You can access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
+    title="">here</a>.<br><br><strong>FDP Storage</strong><br>FairOS-dfs implementation
+    in JavaScript. You can access the GitHub <a href="https://github.com/fairDataSociety/fdp-storage"
+    title="fdp-storage">here</a>.<br><br><strong>FairOS in WASM</strong><br>FairOS-dfs
+    library in WASM. You can access the GitHub <a href="Fairdrive is a dApp that enables
+    decentralized storage on Swarm. It consists of a typical &quot;Drive&quot; interface
+    with files and folders, and a BZZ wallet to manage token balances and keypairs.
+    " title="">here</a>.
   media:
     image: "/uploads/2022/06/11/blockchain-3d-image.jpeg"
     alt_text: Customize Blocks
