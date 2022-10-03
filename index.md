@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg"
+  logo: "/uploads/2022/10/03/fairdata.svg"
   navigation:
   - link: https://gitcoin.co/fairdatasociety
     link_text: Bounties
