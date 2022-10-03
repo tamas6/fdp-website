@@ -153,7 +153,7 @@ page_sections:
     in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
     </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.  '
   media:
-    image: ''
+    image: "/uploads/2022/06/11/markus-spiske-mgthz4zlc1u-unsplash.jpeg"
     alt_text: ''
 - template: 4-column-footer
   block: footer-2
