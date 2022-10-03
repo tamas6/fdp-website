@@ -124,7 +124,20 @@ page_sections:
   media_alignment: Right
   headline: Other Tools
   slug: ''
-  content: ''
+  content: '<strong>FDP Contracts</strong><br>Contracts used in development, including
+    BMT contracts and ENS contracts. <br><br><span style="text-decoration: underline;">BMT
+    Contracts</span> - Swarm hashes can be verifiable on chain via Binary Merkle Trees.
+    Fair Data Protocol has a full data function and coordinating JS library to support
+    this. You can access the GitHub documentation<span class="Apple-converted-space">
+    </span><a href="https://github.com/fairDataSociety/bmt-js" title="">here</a>.<br><br><span
+    style="text-decoration: underline;">ENS Contracts</span> - A reserved ENS name
+    with an associated ETH address is used for Fair Data Protocol accounts. You can
+    access the GitHub documentation<span class="Apple-converted-space"> </span><a
+    href="https://github.com/fairDataSociety/fdp-contracts/tree/master/js-library"
+    title="">here</a>.<br><br><strong>FDP Processor Library</strong><br>Beeson - A
+    Blockchain-verifiable, extensible encapsulation for schema-based object notation
+    in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
+    </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.  '
   media:
     image: ''
     alt_text: ''
