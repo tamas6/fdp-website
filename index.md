@@ -53,12 +53,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  content: Fair Data Protocol provides various libraries and packages for developers
+  content: Fair Data Protocol provides various libraries and tools for developers
     to build using it. <br><br>The underlying storage is FairOS-dfs, based on Swarm
     decentralized storage. It can be accessed through browser libraries or a dedicated
-    client.<br><br>Blossom browser extension is the user agent, that allows dApps
-    to access the storage.<br><br>Various other libraries are provided for more special
-    use cases. <strong><br><br>FDP Play</strong><br>FDP Play is entry point for developers
+    client.<br><br>Blossom is a browser extension that allows dApps to access the
+    personal storage of users. By integrating with its framework, the wallet handling
+    is no longer a question for dApps and users have single-sign-in (SSI) to log in
+    their account.<br><br>Various other libraries are provided for more special use
+    cases. <strong><br><br>FDP Play</strong><br>FDP Play is entry point for developers
     to start building with FDP - a CLI tool to spin up local development FDP environment
     with Docker. It includes a Bee cluster, FairOS instance and blockchain node. The
     GitHub code and instructions are <a href="https://github.com/fairDataSociety/fdp-play"
@@ -166,5 +168,6 @@ page_sections:
   content: <strong>Enabled by</strong><br><br><a href="https://www.ethswarm.org/"
     title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br><br><a href="https://fairdatasociety.org/"
     title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a><br>
+published: false
 
 ---
