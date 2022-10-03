@@ -21,8 +21,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: 'Fair Data Protocol Ecosystem '
-  content: Your path to Interoperability
+  headline: Fair Data Protocol
+  content: Developed under Fair Data Society, Fair Data Protocol aims to provide web3
+    storage for dApps to connect and use, allowing for fair access and re-use of data
+    on a global scale.
   cta:
     enabled: true
     url: https://github.com/fairDataSociety
