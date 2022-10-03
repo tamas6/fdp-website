@@ -13,7 +13,7 @@ page_sections:
     link_text: Videos
   - link: https://fairdatasociety.bzz.link
     link_text: Blog
-  - link: https://www.ethswarm.org/#section-jobs
+  - link: https://www.ethswarm.org/jobs
     link_text: Jobs
   cta:
     url: https://github.com/fairDataSociety
