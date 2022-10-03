@@ -132,6 +132,15 @@ page_sections:
   media:
     image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Other Tools
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: 4-column-footer
   block: footer-2
   col_2: <a href="https://github.com/fairDataSociety" title="GitHub">GitHub</a>
