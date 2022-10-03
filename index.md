@@ -106,15 +106,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Applications</strong>"
-  content: <strong>Fairdrive<br></strong>Fairdrive is a dApp that leverages decentralized
-    storage on Swarm. It consists of a typical "Drive" interface with files and folders,
-    making it convenient for end users. You can access the GitHub<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/fairdrive-theapp" title="">here</a>.<br><br><strong>FairPass<br></strong>A
-    decentralized password manager built with FairOS on top of Swarm storage. It can
-    save "passwords" and "notes" and works for desktop and mobile. You can access
-    the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/FairPass"
-    title="">here</a>.
+  headline: Applications
+  content: Application ecosystem around Fair Data Protocol is growing daily. Below
+    are a few applications that might inspire you to develop your own.<strong><br><br>Fairdrive<br></strong>Fairdrive
+    is a dApp that opens the self-sovereign cloud to the individual users. It consists
+    of a typical "Drive" interface with files and folders, making it convenient for
+    end users. You can access the GitHub<span class="Apple-converted-space"> </span><a
+    href="https://github.com/fairDataSociety/fairdrive-theapp" title="">here</a>.
+    Read more and try it out by going to Fairdrive <a href="https://fairdrive.fairdatasociety.org/"
+    title="Fairdrive">page</a>.<br><br><strong>FairPass<br></strong>A decentralized
+    password manager built with FairOS on top of Swarm storage. It can save "passwords"
+    and "notes" and works for desktop and mobile. You can access the GitHub<span class="Apple-converted-space">
+    </span><a href="https://github.com/fairDataSociety/FairPass" title="">here</a>.
   slug: ''
   media:
     image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
