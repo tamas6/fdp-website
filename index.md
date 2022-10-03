@@ -62,7 +62,7 @@ page_sections:
     to start building with FDP - a CLI tool to spin up local development FDP environment
     with Docker. It includes a Bee cluster, FairOS instance and blockchain node. The
     GitHub code and instructions are <a href="https://github.com/fairDataSociety/fdp-play"
-    title="">here</a>.  Click and press play!<br><br><br><strong>FDP Contracts</strong><br>Contracts
+    title="">here</a>. Click and press play!<br><br><br><strong>FDP Contracts</strong><br>Contracts
     used in development, including BMT contracts and ENS contracts. <br><br><span
     style="text-decoration: underline;">BMT Contracts</span> - Swarm hashes can be
     verifiable on chain via Binary Merkle Trees. Fair Data Protocol has a full data
@@ -75,11 +75,7 @@ page_sections:
     title="">here</a>.<br><br><strong>FDP Processor Library</strong><br>Beeson - A
     Blockchain-verifiable, extensible encapsulation for schema-based object notation
     in Swarm. You can access the GitHub documentation<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.<br><br><strong>FairOS
-    Connect</strong><br>A set of convenience components that can be included in dApps
-    to support FairOS. These components were used in the reference Fairdrive App.
-    You can access the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairos-connect/"
-    title="">here</a>. <br>'
+    </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.<br>'
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
@@ -111,7 +107,8 @@ page_sections:
   content: Blossom browser extension serves as a framework for Fair Data Protocol
     developers and an environment for Web3 users acting as their user agent allowing
     Single Sign On. It provides complete traceless Web3 browsing and is the first
-    user facing application of FDP. You can access the GitHub documentation here.
+    user facing application of FDP. You can access the GitHub documentation <a href="https://github.com/fairDataSociety/blossom"
+    title="Blossom repo">here</a>.
   slug: ''
   media:
     image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
