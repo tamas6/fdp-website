@@ -163,7 +163,8 @@ page_sections:
   image: "/uploads/2022/06/11/fdp-logo-only.png"
 - template: simple-footer
   block: footer-1
-  content: <strong>Enabled by</strong><br><a href="https://www.ethswarm.org/" title="Swarm">Swarm</a><br><a
-    href="https://fairdatasociety.org/" title="Fair Data Society">Fair Data Society</a>
+  content: <strong>Enabled by</strong><br><br><a href="https://www.ethswarm.org/"
+    title="Swarm">Swarm</a><br><a href="https://fairdatasociety.org/" title="Fair
+    Data Society">Fair Data Society</a>
 
 ---
