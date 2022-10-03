@@ -34,6 +34,7 @@ jobs:
           bee-url: https://gateway.fairdatasociety.org/proxy/
           dir: ./dist
           index-document: index.html
+          timeout: 120000
 
       - name: update feed
         id: swarm-feed
