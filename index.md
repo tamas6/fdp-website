@@ -169,5 +169,17 @@ page_sections:
   content: <strong>Enabled by</strong><br><br><a href="https://www.ethswarm.org/"
     title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br><br><a href="https://fairdatasociety.org/"
     title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a><br>
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Fair Data Improvement Proposals
+  content: 'The Fair Data Protocol improvement proposal (FIP) process is intended
+    to provide a path for new specifications and features to be added to the Fair
+    Data Protocol. The FIP process is described in the GitHub <a href="https://github.com/fairDataSociety/FIPs"
+    title="FIPs repo">repo</a>. '
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
