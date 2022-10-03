@@ -120,7 +120,7 @@ page_sections:
     </span><a href="https://github.com/fairDataSociety/FairPass" title="">here</a>.
   slug: ''
   media:
-    image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
+    image: "/uploads/2022/06/11/blockchain-3d-image.jpeg"
     alt_text: ''
 - template: content-feature
   block: feature-1
