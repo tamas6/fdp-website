@@ -131,7 +131,7 @@ page_sections:
     title="BeeSon repo">here</a>.
   slug: ''
   media:
-    image: ''
+    image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
     alt_text: ''
 - template: content-feature
   block: feature-1
