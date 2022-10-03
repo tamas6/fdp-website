@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/06/11/fdp-logo-only.png"
+  logo: "/uploads/2022/10/03/fds_logo_square_white-4x-80.jpg"
   navigation:
   - link: https://gitcoin.co/fairdatasociety
     link_text: Bounties
@@ -139,6 +139,19 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
+  headline: Fair Data Improvement Proposals
+  content: The Fair Data Protocol improvement proposal (FIP) process is intended to
+    provide a path for new specifications and features to be added to the Fair Data
+    Protocol. This provides all the stakeholders with option to influence the direction
+    the Fair Data Protocol evolution. The FIP process is described in the GitHub <a
+    href="https://github.com/fairDataSociety/FIPs" title="FIPs repo">repo</a>.
+  slug: ''
+  media:
+    image: "/uploads/2022/06/11/blockchain-3d-image.jpeg"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
   headline: Other Tools
   slug: ''
   content: '<strong>FDP Contracts</strong><br>Contracts used in development, including
@@ -157,19 +170,6 @@ page_sections:
     </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.  '
   media:
     image: "/uploads/2022/06/11/markus-spiske-mgthz4zlc1u-unsplash.jpeg"
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Fair Data Improvement Proposals
-  content: The Fair Data Protocol improvement proposal (FIP) process is intended to
-    provide a path for new specifications and features to be added to the Fair Data
-    Protocol. This provides all the stakeholders with option to influence the direction
-    the Fair Data Protocol evolution. The FIP process is described in the GitHub <a
-    href="https://github.com/fairDataSociety/FIPs" title="FIPs repo">repo</a>.
-  slug: ''
-  media:
-    image: ''
     alt_text: ''
 - template: 4-column-footer
   block: footer-2
