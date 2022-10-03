@@ -105,7 +105,7 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Applications
   content: Application ecosystem around Fair Data Protocol is growing daily. Below
     are a few applications that might inspire you to develop your own.<strong><br><br>Fairdrive<br></strong>Fairdrive
