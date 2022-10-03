@@ -125,6 +125,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: BeeSon
+  content: BeeSon is a JSON compatible serialization format which allows its elements
+    to be verified cheaply on-chain. You can access the GitHub <a href="https://github.com/fairDataSociety/beeson"
+    title="BeeSon repo">here</a>.
+  slug: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: Other Tools
   slug: ''
   content: '<strong>FDP Contracts</strong><br>Contracts used in development, including
