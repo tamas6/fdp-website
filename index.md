@@ -86,7 +86,7 @@ page_sections:
   media_alignment: Left
   slug: customize
   headline: FairOS
-  content: <strong>FairOS-dfs</strong><br>FairOS-dfs is a layer on top of Swarm decentralized
+  content: '<strong>FairOS-dfs</strong><br>FairOS-dfs is a layer on top of Swarm decentralized
     storage, that offers more advanced data structures - drive, folder and files hierarchy;
     a key value store and a document store. For implementation in Golang the documentation
     is <a href="https://docs.fairos.fairdatasociety.org/docs/" title="">here</a>.<br><br><strong>FDP
@@ -96,7 +96,10 @@ page_sections:
     library in WASM. You can access the GitHub <a href="Fairdrive is a dApp that enables
     decentralized storage on Swarm. It consists of a typical &quot;Drive&quot; interface
     with files and folders, and a BZZ wallet to manage token balances and keypairs.
-    " title="">here</a>.
+    " title="">here</a>.<br><br><strong>FairOS Connect</strong><br>A set of convenience
+    components that can be included in dApps to support FairOS. These components were
+    used in the reference Fairdrive App. You can access the GitHub<span class="Apple-converted-space">
+    </span><a href="https://github.com/fairDataSociety/fairos-connect/" title="">here</a>.   '
   media:
     image: "/uploads/2022/06/11/blockchain-3d-image.jpeg"
     alt_text: Customize Blocks
