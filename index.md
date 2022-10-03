@@ -43,9 +43,8 @@ page_sections:
   col_2:
     headline: 'Self Sovereignty '
     slug: ''
-    content: Fair Data Protocol enables developers independence from clouds and data
-      silos by relying on the network of peers to host the data giving end users ultimate
-      control.
+    content: Fair Data Protocol enables independence from clouds and data silos by
+      relying on the network of peers to host the data giving end users ultimate control.
   col_3:
     headline: Scalability
     slug: ''
