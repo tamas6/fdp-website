@@ -105,7 +105,7 @@ page_sections:
     title="Blossom repo">here</a>.
   slug: ''
   media:
-    image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
+    image: "/uploads/2022/10/03/dall-e-2022-10-03-23-22-40-a-blossom-of-a-flower-that-is-a-browser-extension-and-used-to-access-personal-data-storage.png"
     alt_text: ''
 - template: content-feature
   block: feature-1
