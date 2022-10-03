@@ -89,15 +89,13 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: customize
-  headline: FairOS-dfs
-  content: <strong>FairOS-dfs</strong><br>FairOS is aiming to become a decentralized
-    operating system that manages the resources of the computers in its network, like
-    storage and compute. The nodes that run FairOS will be part of the global network
-    that will run applications which can make use of the storage and compute that
-    is available. It consists of two layers, namely FairOS-dfs (storage) and FairOS-compute
-    (compute). You can access the the documentation <a href="https://docs.fairos.fairdatasociety.org/docs/"
-    title="">here</a>.<br><br><strong>FDP Storage</strong><br>FairOS-dfs implementation
-    in JavaScript. You can access the GitHub <a href="https://github.com/fairDataSociety/fdp-storage"
+  headline: FairOS
+  content: <strong>FairOS-dfs</strong><br>FairOS-dfs is a layer on top of Swarm decentralized
+    storage, that offers more advanced data structures - drive, folder and files hierarchy;
+    a key value store and a document store. For implementation in Golang the documentation
+    is <a href="https://docs.fairos.fairdatasociety.org/docs/" title="">here</a>.<br><br><strong>FDP
+    Storage</strong><br>FairOS-dfs implementation in JavaScript, can be run in browsers.
+    You can access the GitHub <a href="https://github.com/fairDataSociety/fdp-storage"
     title="fdp-storage">here</a>.<br><br><strong>FairOS in WASM</strong><br>FairOS-dfs
     library in WASM. You can access the GitHub <a href="Fairdrive is a dApp that enables
     decentralized storage on Swarm. It consists of a typical &quot;Drive&quot; interface
