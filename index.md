@@ -158,17 +158,6 @@ page_sections:
   media:
     image: "/uploads/2022/06/11/markus-spiske-mgthz4zlc1u-unsplash.jpeg"
     alt_text: ''
-- template: 4-column-footer
-  block: footer-2
-  col_2: <a href="https://github.com/fairDataSociety" title="GitHub"><img src="/uploads/2022/10/03/github-mark-32px.png"></a>
-  col_4: <a href="https://twitter.com/fairdatasociety" title="Twitter"><img src="/uploads/2022/10/03/twitter.svg"></a>
-  col_3: <a href="https://discord.gg/RpX5eU4Cpr" title="Discord"><img src="/uploads/2022/10/03/discordpurple.svg"></a>
-  image: "/uploads/2022/06/11/fdp-logo-only.png"
-- template: simple-footer
-  block: footer-1
-  content: <strong>Enabled by</strong><br><br><a href="https://www.ethswarm.org/"
-    title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br><br><a href="https://fairdatasociety.org/"
-    title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a><br>
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -181,5 +170,16 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: 4-column-footer
+  block: footer-2
+  col_2: <a href="https://github.com/fairDataSociety" title="GitHub"><img src="/uploads/2022/10/03/github-mark-32px.png"></a>
+  col_4: <a href="https://twitter.com/fairdatasociety" title="Twitter"><img src="/uploads/2022/10/03/twitter.svg"></a>
+  col_3: <a href="https://discord.gg/RpX5eU4Cpr" title="Discord"><img src="/uploads/2022/10/03/discordpurple.svg"></a>
+  image: "/uploads/2022/06/11/fdp-logo-only.png"
+- template: simple-footer
+  block: footer-1
+  content: <strong>Enabled by</strong><br><br><a href="https://www.ethswarm.org/"
+    title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br><br><a href="https://fairdatasociety.org/"
+    title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a><br>
 
 ---
