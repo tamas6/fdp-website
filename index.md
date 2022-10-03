@@ -66,7 +66,7 @@ page_sections:
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
-    image: "/uploads/2022/06/11/markus-spiske-mgthz4zlc1u-unsplash.jpeg"
+    image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
     alt_text: ''
 - template: content-feature
   block: feature-1
