@@ -68,8 +68,8 @@ page_sections:
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
-    image: "/uploads/2022/06/11/shubham-dhage-uxdu0gg5pqq-unsplash.jpeg"
-    alt_text: ''
+    image: "/uploads/2022/10/03/dall-e-2022-10-03-23-17-40-an-operating-system-of-the-future-that-allows-decentralized-data-storage.png"
+    alt_text: FDP Toolkit
 - template: content-feature
   block: feature-1
   media_alignment: Left
