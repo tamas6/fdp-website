@@ -54,7 +54,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   content: Fair Data Protocol provides various libraries and tools for developers
-    to build using it. <br><br>The underlying storage is FairOS-dfs, based on Swarm
+    to build using it.  <br><br>The underlying storage is FairOS-dfs, based on Swarm
     decentralized storage. It can be accessed through browser libraries or a dedicated
     client.<br><br>Blossom is a browser extension that allows dApps to access the
     personal storage of users. By integrating with its framework, the wallet handling
