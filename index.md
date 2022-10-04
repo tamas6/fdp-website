@@ -135,8 +135,8 @@ page_sections:
     title="BeeSon repo">here</a>.
   slug: ''
   media:
-    image: "/uploads/2022/10/03/dall-e-2022-10-03-23-18-02-an-operating-system-of-the-future-that-allows-decentralized-data-storage.png"
-    alt_text: ''
+    image: "/uploads/2022/10/04/dalle-2022-10-03-23-18-02.png"
+    alt_text: BeeSon
 - template: content-feature
   block: feature-1
   media_alignment: Left
