@@ -194,8 +194,8 @@ page_sections:
   image: "/uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg"
 - template: simple-footer
   block: footer-1
-  content: <strong>Enabled by</strong><br><br><a href="https://www.ethswarm.org/"
-    title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br><br><a href="https://fairdatasociety.org/"
-    title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a><br>
+  content: <strong>Enabled by</strong><br><br><a href="https://fairdatasociety.org/"
+    title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a>                 <a
+    href="https://www.ethswarm.org/" title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br>
 
 ---
