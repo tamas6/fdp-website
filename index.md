@@ -148,8 +148,8 @@ page_sections:
     href="https://github.com/fairDataSociety/FIPs" title="FIPs repo">repo</a>.
   slug: ''
   media:
-    image: "/uploads/2022/10/03/dall-e-2022-10-03-23-20-53-a-toolkit-for-web3-developers-to-access-swarm-decentralized-storage.png"
-    alt_text: ''
+    image: "/uploads/2022/10/04/dalle-2022-10-03-23-20-53.png"
+    alt_text: Fair Data Improvement Proposals
 - template: content-feature
   block: feature-1
   media_alignment: Right
