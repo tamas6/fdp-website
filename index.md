@@ -185,7 +185,7 @@ page_sections:
     </span><a href="https://github.com/fairDataSociety/beeson" title="">here</a>.  '
   media:
     image: "/uploads/2022/06/11/markus-spiske-mgthz4zlc1u-unsplash.jpeg"
-    alt_text: ''
+    alt_text: Other tools
 - template: 4-column-footer
   block: footer-2
   col_2: <a href="https://github.com/fairDataSociety" title="GitHub"><img src="/uploads/2022/10/03/github-mark-32px.png"></a>
