@@ -195,7 +195,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: <strong>Enabled by</strong><br><br><a href="https://fairdatasociety.org/"
-    title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a>                 <a
-    href="https://www.ethswarm.org/" title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br>
+    title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a>         <img
+    src="/uploads/2022/10/04/blank_-_spacer.png"><a href="https://www.ethswarm.org/"
+    title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br>
 
 ---
