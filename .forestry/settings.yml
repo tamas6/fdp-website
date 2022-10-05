@@ -4,6 +4,11 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: main
+  create: all
+  match: "**/*"
 - type: document
   path: ubuild.css
   label: design
