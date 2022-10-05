@@ -4,11 +4,11 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
+- type: document
   path: ubuild.css
-  label: ubild
-  create: all
+  label: design
   match: "**/*"
+  read_only: false
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
