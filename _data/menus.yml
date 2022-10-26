@@ -1,6 +1,6 @@
 ---
 main:
 - identifier: home
-  url: "/"
+  url: "."
   weight: 1
   title: Home
