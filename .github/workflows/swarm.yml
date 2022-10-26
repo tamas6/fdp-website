@@ -15,12 +15,14 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - uses: helaili/jekyll-action@v2
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          target_branch: "master"
-          jekyll_build_options: "--source . --config _config.yml --destination ./dist"
-          build_only: true
-          
+          ruby-version: '3.0' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 1 # Increment this number if you need to re-download cached gems
+
+      - run: bundle exec jekyll build --baseurl "" --destination ./dist # defaults output to '/_site'
 
 ### upload the content of public folder to swarm
       - name: Upload
