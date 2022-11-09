@@ -1,5 +1,18 @@
 <footer class="block block-footer-1">
   <div class="container">
-    <p>{{ section.content }}</p>
+    <p>
+      <strong>Enabled by</strong><br>
+      <a 
+        href="{{ section.link_1 }}">
+        <img src="./{{ section.image_1 | relative_url }}" width="128" height="auto" alt="Logo">
+      </a>
+    </p>
+      <img src="./{{ section.image_spacer | relative_url }}" width="64" height="auto" alt="Logo">
+    <p>
+      <a 
+        href="{{ section.link_2 }}">
+          <img src="./{{ section.image_2 | relative_url }}" width="224" height="auto" alt="Logo">
+      </a>
+    </p>
   </div>
 </footer>
