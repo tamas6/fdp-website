@@ -147,7 +147,7 @@ page_sections:
     alt_text: BeeSon
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: Fair Data Improvement Proposals
   content: The Fair Data Protocol improvement proposal (FIP) process is intended to
     provide a path for new specifications and features to be added to the Fair Data
