@@ -200,6 +200,15 @@ page_sections:
   media:
     image: "/uploads/2022/06/11/markus-spiske-mgthz4zlc1u-unsplash.jpeg"
     alt_text: Other tools
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Fair Data Protocol Roadmap
+  media:
+    image: "/uploads/2022/12/19/roadmap-for-web3-purple-theme.png"
+    alt_text: Roadmap for FDP
+  slug: ''
+  content: ''
 - template: 4-column-footer
   block: footer-2
   col_2: https://github.com/fairDataSociety
