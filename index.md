@@ -54,7 +54,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   content: Fair Data Protocol provides various libraries and tools for developers
-    to build using it.  <br><br>The underlying storage is FairOS-dfs, based on Swarm
+    to build using it. <br><br>The underlying storage is FairOS-dfs, based on Swarm
     decentralized storage. It can be accessed through browser libraries or a dedicated
     client.<br><br>Blossom is a browser extension that allows dApps to access the
     personal storage of users. By integrating with its framework, the wallet handling
@@ -64,7 +64,13 @@ page_sections:
     to start building with FDP - a CLI tool to spin up local development FDP environment
     with Docker. It includes a Bee cluster, FairOS instance and blockchain node. The
     GitHub code and instructions are <a href="https://github.com/fairDataSociety/fdp-play"
-    title="">here</a>. Click and press play!<br>
+    title="">here</a>. Click and press play!<br><br><strong>Fair Data Protocol Tutorial</strong><br>An
+    interactive tutorial for developers on getting started with Fair Data Protocol
+    is available <a href="https://github.com/fairDataSociety/fdp-storage-tutorial/"
+    title="FDP Tutorial">here</a>. The first part involves setting up a development
+    environment with fdp-play and using fdp-storage.<br>A quickstart example todos
+    app based on the tutorial above is available <a href="https://github.com/fairDataSociety/fdp-storage-todos"
+    title="TODOs example app">here</a>.<br>
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
@@ -199,16 +205,18 @@ page_sections:
   col_2: https://github.com/fairDataSociety
   col_4: https://twitter.com/fairdatasociety
   col_3: https://discord.gg/RpX5eU4Cpr
-  image_1: /uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg
-  image_2: /uploads/2022/10/03/github-mark-32px.png
-  image_3: /uploads/2022/10/03/discordpurple.svg
-  image_4: /uploads/2022/10/03/twitter.svg
+  image_1: "/uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg"
+  image_2: "/uploads/2022/10/03/github-mark-32px.png"
+  image_3: "/uploads/2022/10/03/discordpurple.svg"
+  image_4: "/uploads/2022/10/03/twitter.svg"
+  image: ''
 - template: simple-footer
   block: footer-1
   link_1: https://fairdatasociety.org/
-  image_1: /uploads/2022/10/03/fairdata.svg
-  image_spacer: /uploads/2022/10/04/blankspacer.png
+  image_1: "/uploads/2022/10/03/fairdata.svg"
+  image_spacer: "/uploads/2022/10/04/blankspacer.png"
   link_2: https://www.ethswarm.org/
-  image_2: /uploads/2022/10/03/swarm.svg
+  image_2: "/uploads/2022/10/03/swarm.svg"
+  content: ''
 
 ---
