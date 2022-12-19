@@ -114,7 +114,7 @@ page_sections:
   content: Application ecosystem around Fair Data Protocol is growing daily. Below
     are a few applications that might inspire you to develop your own.<strong><br></strong><br><strong>Fairdrive
     Desktop App</strong><br>Fairdrive Desktop App opens the self-sovereign cloud to
-    individual users. <br>It is a FUSE client for fairOS-dfs and lets you mount your
+    individual users. <br>It is a FUSE client for FairOS-dfs and lets you mount your
     pod on your own user space and interact with your files as if they were on your
     local computer.<br>You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-desktop-app"
     title="Fairdrive Desktop App">here</a> or install it by following <a href="https://fairdatasociety.github.io/fairdrive-desktop-app/"
