@@ -73,6 +73,33 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
+  headline: Applications
+  content: Application ecosystem around Fair Data Protocol is growing daily. Below
+    are a few applications that might inspire you to develop your own.<strong><br></strong><br><strong>Fairdrive
+    Desktop App</strong><br>Fairdrive Desktop App opens the self-sovereign cloud to
+    individual users. <br>It is a FUSE client for FairOS-dfs and lets you mount your
+    pod on your own user space and interact with your files as if they were on your
+    local computer.<br>You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-desktop-app"
+    title="Fairdrive Desktop App">here</a> or install it by following <a href="https://fairdatasociety.github.io/fairdrive-desktop-app/"
+    title="FDA Instructions">instructions</a>.   <br><br><strong>Fairdrive Web App<br></strong>Fairdrive
+    Web App is a dApp that you can use from your browser, using the same underlying
+    storage as the Desktop App.   <br>It consists of a typical "Drive" interface with
+    files and folders, making it convenient for end users. You can access the GitHub<span
+    class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairdrive-theapp"
+    title="">here</a> or try it out <a href="https://app.fairdrive.fairdatasociety.org/"
+    title="FD Web App">here</a>.  <br>Read more about Fairdrive by going to Fairdrive
+    <a href="https://fairdrive.fairdatasociety.org/" title="Fairdrive">page</a>.<br><br><strong>FairPass<br></strong>A
+    decentralized password manager built with FairOS on top of Swarm storage. It can
+    save "passwords" and "notes" and works for desktop and mobile. You can access
+    the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/FairPass"
+    title="">here</a>.
+  slug: ''
+  media:
+    image: "/uploads/2022/10/04/dalle-2022-10-03-23-23-57.png"
+    alt_text: Applications
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   slug: customize
   headline: FairOS
   content: <strong>FairOS-dfs</strong><br>FairOS-dfs is a layer on top of Swarm decentralized
@@ -110,33 +137,6 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Applications
-  content: Application ecosystem around Fair Data Protocol is growing daily. Below
-    are a few applications that might inspire you to develop your own.<strong><br></strong><br><strong>Fairdrive
-    Desktop App</strong><br>Fairdrive Desktop App opens the self-sovereign cloud to
-    individual users. <br>It is a FUSE client for FairOS-dfs and lets you mount your
-    pod on your own user space and interact with your files as if they were on your
-    local computer.<br>You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-desktop-app"
-    title="Fairdrive Desktop App">here</a> or install it by following <a href="https://fairdatasociety.github.io/fairdrive-desktop-app/"
-    title="FDA Instructions">instructions</a>.   <br><br><strong>Fairdrive Web App<br></strong>Fairdrive
-    Web App is a dApp that you can use from your browser, using the same underlying
-    storage as the Desktop App.   <br>It consists of a typical "Drive" interface with
-    files and folders, making it convenient for end users. You can access the GitHub<span
-    class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairdrive-theapp"
-    title="">here</a> or try it out <a href="https://app.fairdrive.fairdatasociety.org/"
-    title="FD Web App">here</a>.  <br>Read more about Fairdrive by going to Fairdrive
-    <a href="https://fairdrive.fairdatasociety.org/" title="Fairdrive">page</a>.<br><br><strong>FairPass<br></strong>A
-    decentralized password manager built with FairOS on top of Swarm storage. It can
-    save "passwords" and "notes" and works for desktop and mobile. You can access
-    the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/FairPass"
-    title="">here</a>.
-  slug: ''
-  media:
-    image: "/uploads/2022/10/04/dalle-2022-10-03-23-23-57.png"
-    alt_text: Applications
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
   headline: BeeSon
   content: BeeSon is a JSON compatible serialization format which allows its elements
     to be verified cheaply on-chain. You can access the GitHub <a href="https://github.com/fairDataSociety/beeson"
