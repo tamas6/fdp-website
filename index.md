@@ -205,10 +205,12 @@ page_sections:
   media_alignment: Right
   headline: Fair Data Protocol Roadmap
   media:
-    image: "/uploads/2022/12/19/roadmap-for-web3-purple-theme.png"
+    image: "/uploads/2022/12/19/roadmap-milestones.png"
     alt_text: Roadmap for FDP
   slug: ''
-  content: ''
+  content: The <a href="https://github.com/fairDataSociety/FIPs/blob/master/text/0001-fdp-roadmap.md"
+    title="FDP Long Term Roadmap">long term roadmap for Fair Data Protocol</a> has
+    been published as one of the first Fair Data Improvement proposals.<br><br>
 - template: 4-column-footer
   block: footer-2
   col_2: https://github.com/fairDataSociety
