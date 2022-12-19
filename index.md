@@ -210,38 +210,36 @@ page_sections:
   slug: ''
   content: 'The <a href="https://github.com/fairDataSociety/FIPs/blob/master/text/0001-fdp-roadmap.md"
     title="FDP Long Term Roadmap">long term roadmap for Fair Data Protocol</a> has
-    been published as one of the first Fair Data Improvement proposals.<br><br>The
-    milestones have been achieved a varied degree, briefly described with following:<br><br>I.
-    Reviews with Protocolisation - the whole personal storage concept has been reviewed
-    and refactored, the current architecture <a href="https://github.com/fairDataSociety/FIPs/pull/61"><span
+    been published as one of the first Fair Data Improvement proposals. The current
+    state of milestones and next steps are described below.<br><br>I. Reviews with
+    Protocolisation - the personal storage concept has been reviewed and refactored,
+    the architecture <a href="https://github.com/fairDataSociety/FIPs/pull/61"><span
     style="text-decoration: underline;">is documented</span></a> with its ongoing
-    improvement ideas. After FairOS, you can manage it directly with a single Bee
-    client in JavaScript using the FDP Storage library or FDP CLI.<br><br>II. Registry
-    Specifications - the User Store (ENS) smart contract is currently deployed on
-    FDP-Play and Görli networks. The dApp store implementations will start after deploying
-    ENS smart contracts to mainnet. The Beeson developments prepared the Blob Registry
-    project where applications and users will be able to signal what kind of structured
-    data they produce. From this, trustful Open Databases operated by trustless actors
-    potentially can emerge.<br><br>III. Authentication - The portable account feature
-    is implemented in FDP Storage and Blossom that applications can integrate allowing
-    to retrieve the user wallet by providing a username and a password. A DApp is
-    identified in Blossom by its dAppID which is either the Swarm hash of the application
-    or ENS name.<br><br>IV. Authorization - The current personal storage concept offers
-    sharing PODs. PODs are the sub-entities of the user for each application or used
-    protocol. Blossom provides an interface for dApps to ask for specific permission
-    to a POD from users. The ecosystem will regulate how these consensual PODs will
-    be used and according to that what other authorization must be made.<br><br>V.
-    Web3 services with Data Economics - Publishing the generic BMT inclusion proofs
-    on BeeSon data in smart contracts is the next step but this is not the only requirement.
-    Proof of Swarm storage is necessary to ensure some swarm hash has associated and
-    available data on the Swarm network which also affects how the Swap, Swear and
-    Swindle smart contract system will be laid out for reliable web3 service networks.
-    The research around this area is ongoing, tightly cooperating with the Swarm team.<br><br>VI.
-    Interoperability with integrations - We had good experience with metadata-handling
-    in the Swarm network but we are open to integrate other storage system solutions
-    to store big files for a longer term. BeeSon also hides possibilities to integrate
-    that with JSON-based databases such as MongoDB. If you want to add any currently
-    existing system to this stack just write a FIP about it.'
+    improvement ideas. <br><br>II. Registry Specifications - the User Store (ENS)
+    smart contract is currently deployed on FDP-Play and Görli networks. The dApp
+    store implementations will start after deploying ENS smart contracts to mainnet.
+    The Beeson developments prepared the Blob Registry project where applications
+    and users will be able to signal what kind of structured data they produce. From
+    this, trustful Open Databases operated by trustless actors potentially can emerge.<br><br>III.
+    Authentication - The portable account feature is implemented in FDP Storage and
+    Blossom that applications can integrate allowing to retrieve the user wallet by
+    providing a username and a password. A DApp is identified in Blossom by its dAppID
+    which is either the Swarm hash of the application or ENS name.<br><br>IV. Authorization
+    - The personal storage concept offers sharing PODs which are the sub-entities
+    of the user for each application or used protocol. Blossom provides an interface
+    for dApps to ask for specific permission to a POD from users. The ecosystem will
+    regulate how these consensual PODs will be used and according to that what other
+    authorization must be made.<br><br>V. Web3 services with Data Economics - Publishing
+    the generic BMT inclusion proofs on BeeSon data in smart contracts is the next
+    step but this is not the only requirement. Proof of storage is necessary to ensure
+    some  hash has associated and available data on the Swarm network which also affects
+    how the Swap, Swear and Swindle smart contract system will be laid out for reliable
+    web3 service networks. The research around this area is ongoing, tightly cooperating
+    with the Swarm team.<br><br>VI. Interoperability with integrations - With good
+    experience with metadata-handling in the Swarm network but open to integrating
+    other storage system solutions. BeeSon also hides possibilities to integrate that
+    with JSON-based databases such as MongoDB. Extensions can be proposed through
+    the Fair Data Improvement proposals (FIPs).'
 - template: 4-column-footer
   block: footer-2
   col_2: https://github.com/fairDataSociety
