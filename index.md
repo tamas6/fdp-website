@@ -206,6 +206,5 @@ page_sections:
     title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a> <img
     src="/uploads/2022/10/04/blank_-_spacer.png"><a href="https://www.ethswarm.org/"
     title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br>
-published: false
 
 ---
