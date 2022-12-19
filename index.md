@@ -196,15 +196,19 @@ page_sections:
     alt_text: Other tools
 - template: 4-column-footer
   block: footer-2
-  col_2: <a href="https://github.com/fairDataSociety" title="GitHub"><img src="/uploads/2022/10/03/github-mark-32px.png"></a>
-  col_4: <a href="https://twitter.com/fairdatasociety" title="Twitter"><img src="/uploads/2022/10/03/twitter.svg"></a>
-  col_3: <a href="https://discord.gg/RpX5eU4Cpr" title="Discord"><img src="/uploads/2022/10/03/discordpurple.svg"></a>
-  image: "/uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg"
+  col_2: https://github.com/fairDataSociety
+  col_4: https://twitter.com/fairdatasociety
+  col_3: https://discord.gg/RpX5eU4Cpr
+  image_1: /uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg
+  image_2: /uploads/2022/10/03/github-mark-32px.png
+  image_3: /uploads/2022/10/03/discordpurple.svg
+  image_4: /uploads/2022/10/03/twitter.svg
 - template: simple-footer
   block: footer-1
-  content: <strong>Enabled by<br></strong><br><a href="https://fairdatasociety.org/"
-    title="Fair Data Society"><img src="/uploads/2022/10/03/fairdata.svg"></a> <img
-    src="/uploads/2022/10/04/blank_-_spacer.png"><a href="https://www.ethswarm.org/"
-    title="Swarm"><img src="/uploads/2022/10/03/swarm.svg"></a><br>
+  link_1: https://fairdatasociety.org/
+  image_1: /uploads/2022/10/03/fairdata.svg
+  image_spacer: /uploads/2022/10/04/blankspacer.png
+  link_2: https://www.ethswarm.org/
+  image_2: /uploads/2022/10/03/swarm.svg
 
 ---
