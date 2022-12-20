@@ -213,23 +213,23 @@ page_sections:
     been published as one of the first Fair Data Improvement proposals. The current
     state of milestones and next steps are described below.<br><br>I. Reviews with
     Protocolisation - the personal storage concept has been reviewed and refactored,
-    the architecture <a href="https://github.com/fairDataSociety/FIPs/pull/61"><span
-    style="text-decoration: underline;">is documented</span></a> with its ongoing
-    improvement ideas. <br><br>II. Registry Specifications - the User Store (ENS)
-    smart contract is currently deployed on FDP-Play and Görli networks. <br><br>III.
-    Authentication - The portable account feature is implemented in FDP Storage and
-    Blossom that applications can integrate allowing to retrieve the user wallet by
-    providing a username and a password. <br><br>IV. Authorization - The personal
-    storage concept offers sharing PODs which are the sub-entities of the user for
-    each application or used protocol. <br><br>V. Web3 services with Data Economics
-    - Publishing the generic BMT inclusion proofs on BeeSon data in smart contracts
-    is the next step when proof of storage requirements are met.<br><br>VI. Interoperability
-    with integrations - With good experience with metadata-handling in the Swarm network
-    but open to integrating other storage system solutions. Extensions can be proposed
-    through the Fair Data Improvement proposals (FIPs).<br><br>The short term roadmap
-    for next couple of months includes:<br>- deploying User store (ENS) smart contract
-    to Ethereum mainnet,<br>- BeeSon generic inclusion proof smart contracts,<br>-
-    refactoring and making packages more robust.'
+    the architecture <a href="https://github.com/fairDataSociety/FIPs/blob/master/text/0061-personal-storage.md"
+    title="Personal Storage FIP"><span style="text-decoration: underline;">is documented</span></a>
+    with its ongoing improvement ideas. <br><br>II. Registry Specifications - the
+    User Store (ENS) smart contract is currently deployed on FDP-Play and Görli networks.
+    <br><br>III. Authentication - The portable account feature is implemented in FDP
+    Storage and Blossom that applications can integrate allowing to retrieve the user
+    wallet by providing a username and a password. <br><br>IV. Authorization - The
+    personal storage concept offers sharing PODs which are the sub-entities of the
+    user for each application or used protocol. <br><br>V. Web3 services with Data
+    Economics - Publishing the generic BMT inclusion proofs on BeeSon data in smart
+    contracts is the next step when proof of storage requirements are met.<br><br>VI.
+    Interoperability with integrations - With good experience with metadata-handling
+    in the Swarm network but open to integrating other storage system solutions. Extensions
+    can be proposed through the Fair Data Improvement proposals (FIPs).<br><br>The
+    short term roadmap for next couple of months includes:<br>- deploying User store
+    (ENS) smart contract to Ethereum mainnet,<br>- BeeSon generic inclusion proof
+    smart contracts,<br>- refactoring and making packages more robust.'
 - template: 4-column-footer
   block: footer-2
   col_2: https://github.com/fairDataSociety
