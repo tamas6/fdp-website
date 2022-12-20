@@ -228,8 +228,8 @@ page_sections:
     but open to integrating other storage system solutions. Extensions can be proposed
     through the Fair Data Improvement proposals (FIPs).<br><br>The short term roadmap
     for next couple of months includes:<br>- deploying User store (ENS) smart contract
-    to Ethereum mainnet<br>- BeeSon generic inclusion proof smart contracts<br>- refactoring
-    and making packages more robust'
+    to Ethereum mainnet,<br>- BeeSon generic inclusion proof smart contracts,<br>-
+    refactoring and making packages more robust.'
 - template: 4-column-footer
   block: footer-2
   col_2: https://github.com/fairDataSociety
