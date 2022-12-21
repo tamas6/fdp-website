@@ -64,7 +64,11 @@ page_sections:
     to start building with FDP - a CLI tool to spin up local development FDP environment
     with Docker. It includes a Bee cluster, FairOS instance and blockchain node. The
     GitHub code and instructions are <a href="https://github.com/fairDataSociety/fdp-play"
-    title="">here</a>. Click and press play!<br><br><strong>Fair Data Protocol Tutorial</strong><br>An
+    title="">here</a>. Click and press play!<br><br><strong>FDP CLI</strong><br>This
+    simple CLI application helps you to interact with all base functionalities of
+    FDP. Currently, it manages the Personal Storage and accounts. You can install
+    it easily from <a href="https://www.npmjs.com/package/@fairdatasociety/fdp-cli"
+    title="fdp-cli-npm">NPM</a>.<br><br><strong>Fair Data Protocol Tutorial</strong><br>An
     interactive tutorial for developers on getting started with Fair Data Protocol
     is available <a href="https://github.com/fairDataSociety/fdp-storage-tutorial/"
     title="FDP Tutorial">here</a>. The first part involves setting up a development
