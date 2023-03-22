@@ -37,6 +37,7 @@ jobs:
           dir: ./dist
           index-document: index.html
           timeout: 120000
+          pin: true
 
       - name: update feed
         id: swarm-feed
