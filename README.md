@@ -19,4 +19,3 @@
 3. [Import your repo](https://forestry.io/docs/quickstart/setup-site/#import-site-from-repo) as a new Jekyll project
 
 To use the page builder, select the **Page Builder** template when creating a new page. 
-

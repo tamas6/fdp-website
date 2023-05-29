@@ -214,7 +214,7 @@ page_sections:
 =======
 - template: navigation-header-w-button
   block: header-2
-  logo: /uploads/2022/10/03/fairdata.svg
+  logo: "/uploads/2022/10/03/fairdata.svg"
   navigation:
   - link: https://gitcoin.co/fairdatasociety
     link_text: Bounties
@@ -263,7 +263,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   content: Fair Data Protocol provides various libraries and tools for developers
-    to build using it.  <br><br>The underlying storage is FairOS-dfs, based on Swarm
+    to build using it. <br><br>The underlying storage is FairOS-dfs, based on Swarm
     decentralized storage. It can be accessed through browser libraries or a dedicated
     client.<br><br>Blossom is a browser extension that allows dApps to access the
     personal storage of users. By integrating with its framework, the wallet handling
@@ -273,7 +273,17 @@ page_sections:
     to start building with FDP - a CLI tool to spin up local development FDP environment
     with Docker. It includes a Bee cluster, FairOS instance and blockchain node. The
     GitHub code and instructions are <a href="https://github.com/fairDataSociety/fdp-play"
-    title="">here</a>. Click and press play!<br>
+    title="">here</a>. Click and press play!<br><br><strong>FDP CLI</strong><br>This
+    simple CLI application helps you to interact with all base functionalities of
+    FDP. Currently, it manages the Personal Storage and accounts. You can install
+    it easily from <a href="https://www.npmjs.com/package/@fairdatasociety/fdp-cli"
+    title="fdp-cli-npm">NPM</a>.<br><br><strong>Fair Data Protocol Tutorial</strong><br>An
+    interactive tutorial for developers on getting started with Fair Data Protocol
+    is available <a href="https://github.com/fairDataSociety/fdp-storage-tutorial/"
+    title="FDP Tutorial">here</a>. The first part involves setting up a development
+    environment with fdp-play and using fdp-storage.<br>A quickstart example todos
+    app based on the tutorial above is available <a href="https://github.com/fairDataSociety/fdp-storage-todos"
+    title="TODOs example app">here</a>.<br>
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
@@ -282,6 +292,33 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
+  headline: Applications
+  content: Application ecosystem around Fair Data Protocol is growing daily. Below
+    are a few applications that might inspire you to develop your own.<strong><br></strong><br><strong>Fairdrive
+    Desktop App</strong><br>Fairdrive Desktop App opens the self-sovereign cloud to
+    individual users. <br>It is a FUSE client for FairOS-dfs and lets you mount your
+    pod on your own user space and interact with your files as if they were on your
+    local computer.<br>You can access the GitHub <a href="https://github.com/fairDataSociety/fairdrive-desktop-app"
+    title="Fairdrive Desktop App">here</a> or install it by following <a href="https://fairdatasociety.github.io/fairdrive-desktop-app/"
+    title="FDA Instructions">instructions</a>.   <br><br><strong>Fairdrive Web App<br></strong>Fairdrive
+    Web App is a dApp that you can use from your browser, using the same underlying
+    storage as the Desktop App.   <br>It consists of a typical "Drive" interface with
+    files and folders, making it convenient for end users. You can access the GitHub<span
+    class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairdrive-theapp"
+    title="">here</a> or try it out <a href="https://app.fairdrive.fairdatasociety.org/"
+    title="FD Web App">here</a>.  <br>Read more about Fairdrive by going to Fairdrive
+    <a href="https://fairdrive.fairdatasociety.org/" title="Fairdrive">page</a>.<br><br><strong>FairPass<br></strong>A
+    decentralized password manager built with FairOS on top of Swarm storage. It can
+    save "passwords" and "notes" and works for desktop and mobile. You can access
+    the GitHub<span class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/FairPass"
+    title="">here</a>.
+  slug: ''
+  media:
+    image: "/uploads/2022/10/04/dalle-2022-10-03-23-23-57.png"
+    alt_text: Applications
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   slug: customize
   headline: FairOS
   content: <strong>FairOS-dfs</strong><br>FairOS-dfs is a layer on top of Swarm decentralized
@@ -319,25 +356,6 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Applications
-  content: Application ecosystem around Fair Data Protocol is growing daily. Below
-    are a few applications that might inspire you to develop your own.<strong><br><br>Fairdrive<br></strong>Fairdrive
-    is a dApp that opens the self-sovereign cloud to the individual users. It consists
-    of a typical "Drive" interface with files and folders, making it convenient for
-    end users. You can access the GitHub<span class="Apple-converted-space"> </span><a
-    href="https://github.com/fairDataSociety/fairdrive-theapp" title="">here</a>.
-    Read more and try it out by going to Fairdrive <a href="https://fairdrive.fairdatasociety.org/"
-    title="Fairdrive">page</a>.<br><br><strong>FairPass<br></strong>A decentralized
-    password manager built with FairOS on top of Swarm storage. It can save "passwords"
-    and "notes" and works for desktop and mobile. You can access the GitHub<span class="Apple-converted-space">
-    </span><a href="https://github.com/fairDataSociety/FairPass" title="">here</a>.
-  slug: ''
-  media:
-    image: "/uploads/2022/10/04/dalle-2022-10-03-23-23-57.png"
-    alt_text: Applications
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
   headline: BeeSon
   content: BeeSon is a JSON compatible serialization format which allows its elements
     to be verified cheaply on-chain. You can access the GitHub <a href="https://github.com/fairDataSociety/beeson"
@@ -348,7 +366,7 @@ page_sections:
     alt_text: BeeSon
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: Fair Data Improvement Proposals
   content: The Fair Data Protocol improvement proposal (FIP) process is intended to
     provide a path for new specifications and features to be added to the Fair Data
@@ -395,22 +413,54 @@ page_sections:
   media:
     image: "/uploads/2022/06/11/markus-spiske-mgthz4zlc1u-unsplash.jpeg"
     alt_text: Other tools
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Fair Data Protocol Roadmap
+  media:
+    image: "/uploads/2022/12/19/roadmap-milestones.png"
+    alt_text: Roadmap for FDP
+  slug: ''
+  content: 'The <a href="https://github.com/fairDataSociety/FIPs/blob/master/text/0001-fdp-roadmap.md"
+    title="FDP Long Term Roadmap">long term roadmap for Fair Data Protocol</a> has
+    been published as one of the first Fair Data Improvement proposals. The current
+    state of milestones and next steps are described below.<br><br>I. Reviews with
+    Protocolisation - the personal storage concept has been reviewed and refactored,
+    the architecture <a href="https://github.com/fairDataSociety/FIPs/blob/master/text/0061-personal-storage.md"
+    title="Personal Storage FIP"><span style="text-decoration: underline;">is documented</span></a>
+    with its ongoing improvement ideas. <br><br>II. Registry Specifications - the
+    User Store (ENS) smart contract is currently deployed on FDP-Play and Görli networks.
+    <br><br>III. Authentication - The portable account feature is implemented in FDP
+    Storage and Blossom that applications can integrate allowing to retrieve the user
+    wallet by providing a username and a password. <br><br>IV. Authorization - The
+    personal storage concept offers sharing PODs which are the sub-entities of the
+    user for each application or used protocol. <br><br>V. Web3 services with Data
+    Economics - Publishing the generic BMT inclusion proofs on BeeSon data in smart
+    contracts is the next step when proof of storage requirements are met.<br><br>VI.
+    Interoperability with integrations - With good experience with metadata-handling
+    in the Swarm network but open to integrating other storage system solutions. Extensions
+    can be proposed through the Fair Data Improvement proposals (FIPs).<br><br>The
+    short term roadmap for next couple of months includes:<br>- deploying User store
+    (ENS) smart contract to Ethereum mainnet,<br>- BeeSon generic inclusion proof
+    smart contracts,<br>- refactoring and making packages more robust.'
 - template: 4-column-footer
   block: footer-2
   col_2: https://github.com/fairDataSociety
   col_4: https://twitter.com/fairdatasociety
   col_3: https://discord.gg/RpX5eU4Cpr
-  image_1: /uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg
-  image_2: /uploads/2022/10/03/github-mark-32px.png
-  image_3: /uploads/2022/10/03/discordpurple.svg
-  image_4: /uploads/2022/10/03/twitter.svg
+  image_1: "/uploads/2022/10/03/fds_logo_square_white-4x-80-cropped.jpg"
+  image_2: "/uploads/2022/10/03/github-mark-32px.png"
+  image_3: "/uploads/2022/10/03/discordpurple.svg"
+  image_4: "/uploads/2022/10/03/twitter.svg"
+  image: ''
 - template: simple-footer
   block: footer-1
   link_1: https://fairdatasociety.org/
-  image_1: /uploads/2022/10/03/fairdata.svg
-  image_spacer: /uploads/2022/10/04/blankspacer.png
+  image_1: "/uploads/2022/10/03/fairdata.svg"
+  image_spacer: "/uploads/2022/10/04/blankspacer.png"
   link_2: https://www.ethswarm.org/
-  image_2: /uploads/2022/10/03/swarm.svg
+  image_2: "/uploads/2022/10/03/swarm.svg"
+  content: ''
 
 >>>>>>> 7db04b45a9c82fd1fbc9e693a7dba3d993eda31a
 ---
